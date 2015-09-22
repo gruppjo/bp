@@ -19,22 +19,22 @@ Der Austausch von digitalen Informationen ist aus unseren Privat- und Berufslebe
 
 
 
-Zugang haben wir durch verschiedenste Endgeräte: : auch immer mehr unserer Alltagsgegenstände wie Fernseher und Radiogeräte sind internetfähig. Der deutsche Bundesbürger war so laut der ARD/ZDF-Onlinestudie im Jahr 2014 bereits durschnittlich mehr als 160 Minuten täglich online und das mit 2.8 verschiedenen Endgeräten (http://de.statista.com/themen/101/medien/), Tendenz steigend. Eine Vielzahl von Studien untersucht unser Verhalten mit den digitalen Medien, der Trend ist jedoch allen gemein, auch hier ist die Tendenz flächendeckend steigend. Nicht nur ein deutsches Phänomen, sondern ein weltweites: bereits über 40% der Erdbevölkerung hat Zugang zum Internet (http://www.internetlivestats.com/internet-users/). Kein Wunder, dass Gerätehersteller, Mobilfunk- und Internetunternehmen die Global 500 Liste der umsatzreichsten Unternehmen des Fortune Magazines schmücken: Samsung, Apple, Microsoft, Sony, Deutsche Telekom, Google, Vodafone und Telefonica, um nur einige zu nennen. Noch eindeutiger wird der Trend bei der Forbes 'Most Valuable Brands' Liste, die denn Gewinn der Firmen in den Vordergrund stellt. Hier werden bereits die Top 10 von Technologiefirmen dominiert: Apple, Microsoft, Google, IBM, Samsung und Facebook (http://www.forbes.com/powerful-brands/).
+Zugang haben wir durch verschiedenste Endgeräte: : auch immer mehr unserer Alltagsgegenstände wie Fernseher und Radiogeräte sind internetfähig. Der deutsche Bundesbürger war so laut der ARD/ZDF-Onlinestudie im Jahr 2014 bereits durschnittlich mehr als 160 Minuten täglich online und das mit 2.8 verschiedenen Endgeräten (http://de.statista.com/themen/101/medien/), Tendenz steigend. Eine Vielzahl von Studien untersucht unser Verhalten mit den digitalen Medien, der Trend ist jedoch allen gemein, auch hier ist die Tendenz flächendeckend steigend. Nicht nur ein deutsches Phänomen, sondern ein weltweites: bereits über 40% der Erdbevölkerung hat Zugang zum Internet (http://www.internetlivestats.com/internet-users/). Kein Wunder, dass Gerätehersteller, Mobilfunk- und Internetunternehmen die Global 500 Liste der umsatzreichsten Unternehmen des Fortune Magazines schmücken: Samsung, Apple, Microsoft, Sony, Deutsche Telekom, Google, Vodafone und Telefonica, um nur einige zu nennen (http://fortune.com/global500/). Noch eindeutiger wird der Trend bei der Forbes 'Most Valuable Brands' Liste, die denn Gewinn der Firmen in den Vordergrund stellt. Hier werden bereits die Top 10 von Technologiefirmen dominiert: Apple, Microsoft, Google, IBM, Samsung und Facebook (http://www.forbes.com/powerful-brands/).
 
 Diese Entwicklung ist auch an der deutschen Wirtschaft nicht spurlos vorüber gegangen: die deutsche Branche der Informations- und Kommunikationtechnik ist seit Jahren wichtiger Pfeiler der deutschen Industrie und bei 4.7% Anteil an der gewerblichen Wertschöpfung mittlerweile gleichauf mit dem Automobilbau und sogar vor der Traditionsbranche Machinenbau (http://www.bmwi.de/BMWi/Redaktion/PDF/Publikationen/monitoring-report-digitale-wirtschaft-2014-kurzfassung,property=pdf,bereich=bmwi2012,sprache=de,rwb=true.pdf). Bei rund 226 Milliarden Euro lag der Gesamtumsatz der Branche im Jahr 2013 und so liegt sie im internationalen Vergleich auf Platz 5, 80 Milliarden Euro davon entfallen alleine auf die Internetwirschaft. Ermöglicht wird dieser Erfolg durch über 91.000 Unternehmen und mehr als einer Millionen Erwerbstätigen, durch die Niederlassungen der Technologieriesen und die Märkte die durch sie entstehen: Apple, Microsoft, HP, IBM, Google
 
 SAP #28 (forbes - most valuable brands)
 
 wirtschaftliche Entwicklung IKT Branche - https://www.destatis.de/DE/Publikationen/Thematisch/UnternehmenHandwerk/Unternehmen/IKT_BrancheDeutschland.html
+- Innovationsmotor: Produktion Automobil/Machinenbau, Online-Services, Mess-/Kontrolltechnik, Datenverarbeitung und Analyse - BMBF (Bundesministerium für Bildung und Forschung) bezeichnet IKT als Innovationsmotor Nr. 1 in Deutschland. Mehr als 80% der Innovationen in der deutschen Wirtschaft beruhen auf IKT.
 
 Monitoring Report Digitale Wirtschaft - http://www.bmwi.de/DE/Mediathek/publikationen,did=675398.html
-Meta - http://www.welt.de/wirtschaft/article125158768/Deutschland-als-IT-Standort-weltklasse.html
+- Vorne im Branchenvergleich: Investitionen 15.4 Milliarden Euro
 
 
 
 
-
-WEBTECHNOLOGIES
+WEBTECHNOLOGIES: plugin-free, open/royalty-free, industry-standards not developed by single companies, community dialogue
 
 History (2009) - WHATWG apple, mozilla, opera (later google)
 http://atendesigngroup.com/blog/brief-history-of-html
@@ -59,6 +59,20 @@ Unity: Web Publishing following chrome npapi deprecation (2015) - http://blogs.u
 Microsoft: moving away from silverlight (2015) - https://blogs.windows.com/msedgedev/2015/07/02/moving-to-html5-premium-media/
 
 Syracuse: Flash zero-day security flaws (2015) - http://www.syracuse.com/us-news/index.ssf/2015/07/google_mozilla_adobe_flash_block_security_flaw.html
+
+Tiobe 2015 (Search engine results) - http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
+
+RedMonk 2015 (Github / Stackoverflow) - http://redmonk.com/sogrady/2015/07/01/language-rankings-6-15/
+
+Githut 2014 (Github repositories) - http://githut.info/
+
+Github
+by far most popular - https://en.wikipedia.org/wiki/Comparison_of_source_code_hosting_facilities#Popularity
+11M users 27.3M repos - https://github.com/about/press
+Free for open source - https://github.com/pricing
+popular projects: scala, php, node.js, ruby on rails; bootstrap, angular.js, d3, node.js, jquery, meteor, react
+mirrors: v8, ruby
+
 
 
 
