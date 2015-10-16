@@ -1,0 +1,4 @@
+- Herr Ulmer
+- Papa
+- Tim, Patti, Frank, Feli, Jetti
+- Finanzen: Thorsten, David Herrmann

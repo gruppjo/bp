@@ -93,11 +93,22 @@ UVP: siehe strengths
 Marketing: Online: eigene Webseite, Blogging/Open Source/Papers, Freelancer Portale, gemeinnützig-orientierte Projekte. Offline: eigenes Personennetzwerk
 Tätigkeitsgebiet: Einzugsgebiet Stuttgart (vor Ort) und bundesweit (bei Remote)
 
+## Einführung
+
+Der Businessplan für meine Selbstständigkeit besteht aus drei Teilen:
+
+1. Geschäftsidee: hier erarbeite ich ausgehend von meiner Berufserfahrung und technologischen Spezialisierung mein Geschäftsmodell und beleuchte die Themen Leistungsangebot, bestehende Kunden, Marketing, Zielkunden, Markt und Wettbewerb und schließlich meine Unternehmensziele.
+
+2. Ausgehend von der Geschäftsidee wird im zweiten Teil der finanzielle Seite der Gründung mit dem Finanzplan dargelegt.
+
+3. Abschließend befindet sich im letzten Teil eine SWOT-Analyse, die Chancen und Risiken meines Unternehmens, sowie diesbezüglich passende Maßnahmen und Strategien aufführt.
+
+
 ## Geschäftsidee
 
 Auf Grund eines sich immer weiter diversifizierenden Marktes in der Software-Entwicklung ist es aus meiner Sicht sinnvoll eine Gründung in der Branche nicht nur aus unternehmerischen Gesichtspunkten sondern auch aus technologischen zu betrachten.
 
-Daher gehe ich im Folgenden zunächst auf die Technologien ein auf denen sich meine Berufserfahrung begründet, dies ist die Grundlage für weitere Entscheidungen, wie zum Beispiel meine Zielkunden und daher für das Verständnis meines Vorhabens besonders wichtig.
+Daher gehe ich im Folgenden zunächst auf die Technologien ein auf denen sich meine Berufserfahrung begründet, dies ist die Grundlage für weitere Entscheidungen, wie zum Beispiel meine Zielkunden und daher für das Verständnis meines Vorhabens besonders wichtig. Anschließend gehen wir auf die unternehmerischen Gesichtspunkte meiner angestrebten Selbstständigkeit ein.
 
 ### Technologien
 Die Technologien der IKT Branche werden durch die eben genannte Diverszifizerung immer zahlreicher und so ergibt sich oft auch leider eine gewisse Undurchsichtigkeit. Gerade in den letzten Jahren sind in vielen Bereichen die Webtechnologien wie JavaScript, HTML und CSS für die Entwicklung von komplexen Anwendungen immer mehr auf dem Vormarsch. Das liegt vor allem daran, dass trotz der unzähligen und unterschiedlichen Endgeräte, wie Laptops, Smartphones, Tablets, E-Book-Reader und sogar internetfähiger Fernseher, diese Geräte doch alle eines gemeinsam haben: nämlich einen Browser. Bis heute sind die Webtechnologien die einzigen, die nativ, also ohne separate Plugin-Installation in den Browsern laufen - ganz im Gegensatz zu anderen bekannten Technologien wie Adobe Flash und Java von Oracle. Somit eigenen sie sich ausgezeichnet um Software für möglichst viele Nutzer zugänglich zu machen.
@@ -120,7 +131,7 @@ Spannende Entwicklungen wie diese befeuern seit meines Studiums meine Faszinatio
 Lebenslauf
 
 
-### Angebot und Weiterentwicklung
+### Leistungsangebot
 
 Basierend auf meiner Berufserfahrung biete ich meinen Kunden folgende Dienstleistungen:
 
@@ -259,12 +270,42 @@ Wachstumsmarkt: Mobile Developer, Web-Entwickler - Die besten Projektvermittler 
 Zu 735k Mitarbeiter in der Branche - http://de.statista.com/themen/1373/it-branche-deutschland/
 
 
+## Finanzplanung
+
+### Ziele der Finanzplanung
+- Dadurch in dieser Zeit einen Umsatz von 4.500 Euro generieren
+- Gehalts und Stundensatzentwicklung etc...
+- Umsatzziele: 30k, 50k, 70k
+- Zunächst Kleinunternehmer
+
+### Annahmen und Festlegungen
+- Stundensatz
+- Auslastung
+- Zahlungsverzögerungen
+
+### Privatentnahmen
+Private Lebensführung
+Sozialversicherungen
+Gründerzuschuss
+
+### Geschäftsausgaben
+
+## Kapitalbedarf/Investitionsplan
+
+### Kapitalbedarfsplan
+
+### Liquiditätsvorschau
+
+### Ertragsvorschau/Rentabilitätsvorschau
+
+### Plan-Gewinn und -Verlustrechnung
+
 ## Chancen / Risikofaktoren
-Für eine Übersicht der Chancen und Risiken meiner Selbstständigkeit habe ich mich für eine SWOT-Analyse entschieden. Sie ist ein beliebtes Instrument in der Stragetschien Planung für Unternehmen und beleuchtet Stärken (Strenghts), Schwächen (Weaknesses), Chancen (Opportunities) und Gefahren (Threats).  
+Für eine Übersicht der Chancen und Risiken meiner Selbstständigkeit habe ich mich für eine SWOT-Analyse entschieden. Sie ist ein beliebtes Instrument in der startegischen Planung für Unternehmen und beleuchtet Stärken (Strenghts), Schwächen (Weaknesses), Chancen (Opportunities) und Gefahren (Threats).  
 
 Die einzelnen Punkte werden beleuchtet und zu ihnen gegebenenfalls Maßnahmen und Strategien vorgestellt.
 
-Strengths:
+Stärken (Strengths):
 - Langjährige Erfahrung in jungen Technologien (und klassisch: Java/C/C++), professional software development und Strategieberatung
 - Langjährige Erfahrung in verschiedenen Unternehmens- und Teamgrößen
 - Internationale Erfahrung (Englisch in Schrift und Sprache)
@@ -272,11 +313,12 @@ Strengths:
 - Kommunikation mit Kunden, Kundenführung, Verhandlungen, Präsentationen, UX, ...
 - Breites Aufgabenspektrum möglich, so kann bei Engpässen reagiert werden (verschiedene Produkte: Webseiten, Apps, Fullstack, Desktopapplikationen, Tooling, Open Source, Prototypen ... verschieden Aufgabengebiete: Engineering, Schulungen, Vorlesungen, Beratung, technische Analyse/Recherche, ...)
 - BEISPIELE HIERFÜR (Blogs, State of the Art, Github, Feel the Love, eigene Webseite)
-- kaum Investitionen, kaum laufende Kosten, kaum Produktionskosten (nur meine Zeit)
+- kaum Investitionen (kein großes finanzielles Risiko), kaum laufende Kosten, kaum Produktionskosten (nur meine Zeit)
 
 Weaknesses:
 - Unternehmerische Kenntnisse und Fähigkeiten fundiert aber noch nicht außerordentlich
   - (Beratung: Feli, Papa, Freunde, Steuerberater. Steuerberater einkaufen. Zunächst Kleinunternehmer)
+  - Gründerseminsare
 - Keine großen Volumen möglich: Zunächst einziger Skalierungsfaktor meine Zeit und Stundenlohn (begrenzt)
   - In Zukunft eventuell mit weiteren Mitarbeitern abbildbar
 
@@ -293,6 +335,7 @@ Threats:
 - Generell Liquiditätsprobleme
   - Kapitalpuffer von 25% bei Kapitalbedarfsplanung
   - andere Finanzmittel: Privatkredite, Fremdfinanzierung, Minijob, ...
+  - Verringerung der Privatentnahmen
 - Verlust Arbeitsgerät
   - Diebstahl- und Hardwareversicherung
 - andere unvorhersehbare Kosten oder Zahlungsausfall
@@ -303,93 +346,5 @@ Threats:
   - Finanzplan erwartet bereits 1 bis 2 Monate Verzögerung
 - Haftungsfall, Verlust von Arbeitsergebnissen
   - Haftpflichtversicherung/Rechtsschutzversicherung, Backups, Reserve für neuen Laptop
-
-## Kapitalbedarf/Investitionsplan
-Ohne Geld geht gar nichts. Das Herz
-stück eines Businessplans ist daher die
-Planung rund um die Finanzen. Die
-vier wichtigsten Fragen, die ein Busi
-nessplan zum Thema „Finanzierung“
-beantworten muss, sind: Wie hoch ist
-der Kapitalbedarf für die Gründung?
-Aus welchen Geldquellen soll dieser
-Kapitalbedarf finanziert werden? Wel
-che Einnahmen und Ausgaben stehen
-in den nächsten drei Jahren an? Wie
-hoch ist die verbleibende Liquidität?
-Wie hoch ist schätzungsweise die Ren
-tabilität, also der Gewinn, in den
-nächsten drei Jahren?
-
-Finanziell:
-- Dadurch in dieser Zeit einen Umsatz von 4.500 Euro generieren
-- Gehalts und Stundensatzentwicklung etc...
-- Umsatzziele: 30k, 50k, 70k
-- Zunächst Kleintunernehmer
-
-### Kapitalbedarfsplan
-Wie hoch ist der Kapitalbedarf für die Gründung? Aus welchen Quellen?
-Der Kapitalbedarfsplan zeigt Ihnen,
-wie viel Eigen
- und F
-remdkapital Sie
-für welche Posten brauchen. Berück
-sichtigen Sie auch eine Reserve für un
-vorhergesehene Ausgaben und für die
-Kosten der privaten Lebensführung.
-Kalkulieren Sie für mindestens sechs
-Monate. Denken Sie auch an die unter
-schiedlichen Laufzeiten der Fremdfi
-nanzierungsmittel: Wenn die tilgungs
-freie Zeit vieler Förderdarlehen vorbei
-ist, kommt schlagartig eine erhebliche
-finanzielle Mehrbelastung auf Sie zu
-
-
-## Finanzplan
-### Liquiditätsvorschau
-Eine fundierte Liquiditätsvorschau
-zeigt Ihre Zahlungsfähigkeit für einen
-bestimmten Zeitraum an. Kammern
-und Verbände können Ihnen hiermit
-mit Branchenwerten helfen. Legen Sie
-Branchendaten zur Zahlungsmoral
-Ihrer K
-unden vor und erklären Sie, wie
-Sie z. B. längere Zahlungsfristen über
-brücken k
-önnen. Erklären Sie, wie
-lange es dauern wird,
- bis Sie tatsächlich
-„schwarze Zahlen“ schreiben werden,
-und wie Sie diesen Zeitraum finanziell
-überstehen können
-
-### Ertragsvorschau/Rentabilitätsvorschau
-Zeigen Sie, welche Umsätze Sie mit
-welchem Produkt oder welcher Dienst
-leistung bei w
-elchen Kunden machen.
-Die Zahlen müssen – auch wenn es
-sich um Schätzungen handelt – nach
-vo
-llziehbar sein. Was geschieht, wenn
-ein geringer Umsatz oder gar kein
-Um
-satz erzielt wird?
-
-Annahmen:
-- Januar/Februar geringerer Verdienst (1-2 Monate Zahlungsverzögerung)
-- Stellschrauben: weniger Gehalt, Höhere Auslastung bzw. Stundensatz (Konservative Schätzungen), Büromiete, Umsatzsteuer
-
-### Plan-Gewinn und -Verlustrechnung
-Hier müssen Sie zeigen, ob Sie unter
-dem Strich Ihr eingesetztes Kapital
-vermehren oder verringern. Dabei stel
-len S
-ie die Umsätze aus der Umsatz
-plan
-ung den Aufwendungen aus dem
-Kapitalbedarfsplan gegenüber.
 
 ## Unterlagen
