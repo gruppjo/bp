@@ -1,76 +1,12 @@
 # Business Plan
 
-## Einführung alt
-Der Austausch von digitalen Informationen ist aus unseren Privat- und Berufsleben nicht mehr wegzudenken. Motor für diesen Austausch und für die digitale Revolution des 21. Jahrhunderts ist das Internet. Eine Vielzahl von Geräten ermöglicht den Zugriff: Laptops, Desktops, Tablets, Smartphones, E-Book-Reader, die Liste ist lang, doch eins haben Sie alle gemeinsam. Einen Browser
-
-
-
-Zugang haben wir durch verschiedenste Endgeräte: : auch immer mehr unserer Alltagsgegenstände wie Fernseher und Radiogeräte sind internetfähig. Der deutsche Bundesbürger war so laut der ARD/ZDF-Onlinestudie im Jahr 2014 bereits durschnittlich mehr als 160 Minuten täglich online und das mit 2.8 verschiedenen Endgeräten (http://de.statista.com/themen/101/medien/), Tendenz steigend. Eine Vielzahl von Studien untersucht unser Verhalten mit den digitalen Medien, der Trend ist jedoch allen gemein, auch hier ist die Tendenz flächendeckend steigend. Nicht nur ein deutsches Phänomen, sondern ein weltweites: bereits über 40% der Erdbevölkerung hat Zugang zum Internet (http://www.internetlivestats.com/internet-users/). Kein Wunder, dass Gerätehersteller, Mobilfunk- und Internetunternehmen die Global 500 Liste der umsatzreichsten Unternehmen des Fortune Magazines schmücken: Samsung, Apple, Microsoft, Sony, Deutsche Telekom, Google, Vodafone und Telefonica, um nur einige zu nennen (http://fortune.com/global500/). Noch eindeutiger wird der Trend bei der Forbes 'Most Valuable Brands' Liste, die denn Gewinn der Firmen in den Vordergrund stellt. Hier werden bereits die Top 10 von Technologiefirmen dominiert: Apple, Microsoft, Google, IBM, Samsung und Facebook (http://www.forbes.com/powerful-brands/).
-
-Diese Entwicklung ist auch an der deutschen Wirtschaft nicht spurlos vorüber gegangen: die deutsche Branche der Informations- und Kommunikationtechnik ist seit Jahren wichtiger Pfeiler der deutschen Industrie und bei 4.7% Anteil an der gewerblichen Wertschöpfung mittlerweile gleichauf mit dem Automobilbau und sogar vor der Traditionsbranche Machinenbau (http://www.bmwi.de/BMWi/Redaktion/PDF/Publikationen/monitoring-report-digitale-wirtschaft-2014-kurzfassung,property=pdf,bereich=bmwi2012,sprache=de,rwb=true.pdf). Bei rund 226 Milliarden Euro lag der Gesamtumsatz der Branche im Jahr 2013 und so liegt sie im internationalen Vergleich auf Platz 5, 80 Milliarden Euro davon entfallen alleine auf die Internetwirschaft. Ermöglicht wird dieser Erfolg durch über 91.000 Unternehmen und mehr als einer Millionen Erwerbstätigen, durch die Niederlassungen der Technologieriesen und die Märkte die durch sie entstehen: Apple, Microsoft, HP, IBM, Google
-
-SAP #28 (forbes - most valuable brands)
-
-wirtschaftliche Entwicklung IKT Branche - https://www.destatis.de/DE/Publikationen/Thematisch/UnternehmenHandwerk/Unternehmen/IKT_BrancheDeutschland.html
-- Innovationsmotor: Produktion Automobil/Machinenbau, Online-Services, Mess-/Kontrolltechnik, Datenverarbeitung und Analyse - BMBF (Bundesministerium für Bildung und Forschung) bezeichnet IKT als Innovationsmotor Nr. 1 in Deutschland. Mehr als 80% der Innovationen in der deutschen Wirtschaft beruhen auf IKT.
-
-Monitoring Report Digitale Wirtschaft - http://www.bmwi.de/DE/Mediathek/publikationen,did=675398.html
-- Vorne im Branchenvergleich: Investitionen 15.4 Milliarden Euro
-
-
-WEBTECHNOLOGIES: plugin-free, open/royalty-free, industry-standards not developed by single companies, community dialogue
-
-History (2009) - WHATWG apple, mozilla, opera (later google)
-http://atendesigngroup.com/blog/brief-history-of-html
-http://diveintohtml5.info/past.html
-
-Apple: iOS no Flash (2010) - http://www.apple.com/hotnews/thoughts-on-flash/
-
-Adobe: discontinue flash for mobile browsers, focus on pc and html5 contributions (and mobile apps) (2011) - https://blogs.adobe.com/conversations/2011/11/flash-focus.html
-
-The Verge: No Flash Player on Android 4.1 (2012) - http://www.theverge.com/2012/8/14/3241727/flash-for-android-dies
-
-CIO: adobe moving from flash to html5 (2014) - http://www.cio.com/article/2376661/internet/how-adobe-is-moving-on-from-flash-to-embrace-html5.html
-
-Google: Chrome no Java, Silverlight, Unity in 2015 (2014) - https://support.google.com/chrome/answer/6213033?hl=en
-
-W3schools: Chrome 64% Marketshare - http://www.w3schools.com/browsers/browsers_stats.asp
-
-Techrepublic: Java: no NPAPI for Edge, Firefox/Safari prompt users, IE quickly blocks out of date versions - http://www.techrepublic.com/article/java-gets-browser-eviction-notices-from-spartan-and-chrome-42/
-
-Unity: Web Publishing following chrome npapi deprecation (2015) - http://blogs.unity3d.com/2015/05/28/web-publishing-following-chrome-npapi-deprecation/
-
-Microsoft: moving away from silverlight (2015) - https://blogs.windows.com/msedgedev/2015/07/02/moving-to-html5-premium-media/
-
-Syracuse: Flash zero-day security flaws (2015) - http://www.syracuse.com/us-news/index.ssf/2015/07/google_mozilla_adobe_flash_block_security_flaw.html
-
-Tiobe 2015 (Search engine results) - http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
-
-RedMonk 2015 (Github / Stackoverflow) - http://redmonk.com/sogrady/2015/07/01/language-rankings-6-15/
-
-Githut 2014 (Github repositories) - http://githut.info/
-
-https://www.gulp.de/trendanalyzer
-- javascript, angular, node, html5, (gsap)
-- (css3, phonegap/cordova, WebGL, backbone, datenbanken)
-- und viele weitere entsprechende Frameworks/Libraries
-
-JavaScript/HTML5 wichtig! - 10 begehrtesten Skills bei IT-Freelancern - http://www.twago.de/blog/die-10-begehrtesten-skills-bei-it-freelancern/
-
-Github
-by far most popular - https://en.wikipedia.org/wiki/Comparison_of_source_code_hosting_facilities#Popularity
-11M users 27.3M repos - https://github.com/about/press
-Free for open source - https://github.com/pricing
-popular projects: scala, php, node.js, ruby on rails; bootstrap, angular.js, d3, node.js, jquery, meteor, react
-mirrors: v8, ruby
-
 ## Einführung / Executive Summary
 
-Der Austausch von digitalen Informationen ist aus unseren Privat- und Berufsleben nicht mehr wegzudenken. Motor für diesen Austausch und für die digitale Revolution des 21. Jahrhunderts ist das Internet und mit ihm die Geräte, die wir verwenden. So finden sich in den Listen der erfolgreichsten und wertvollsten Unternehmen weltweit immer mehr Technologieanbieter: Apple, Samsung, Microsoft, Sony, Google, IBM und Facebook, nur um einige zu nennen (siehe http://fortune.com/global500/ http://www.forbes.com/powerful-brands/). Auch in Deutschland ist die Branche der Informations- und Kommunikationstechnik (IKT) nicht nur Innovationsmotor Nr. 1,sondern mittlerweile gleichbedeutend für die wirtschaftliche Wertschöpfung wie der Autombil- und Maschinenbau, berichten das Bundesministerium für Bildung und Forschung (BMBF) sowie das Bundesministerium für Wirtschaft und Energie. (https://www.destatis.de/DE/Publikationen/Thematisch/UnternehmenHandwerk/Unternehmen/IKT_BrancheDeutschland.html http://www.bmwi.de/BMWi/Redaktion/PDF/Publikationen/monitoring-report-digitale-wirtschaft-2014-kurzfassung,property=pdf,bereich=bmwi2012,sprache=de,rwb=true.pdf)
+Der Austausch von digitalen Informationen ist aus unseren Privat- und Berufsleben nicht mehr wegzudenken. Motor für diesen Austausch und für die digitale Revolution des 21. Jahrhunderts ist das Internet und mit ihm die Geräte, die wir verwenden. So finden sich in den Listen der erfolgreichsten und wertvollsten Unternehmen weltweit immer mehr Technologieanbieter: Apple, Samsung, Microsoft, Sony, Google, IBM und Facebook, nur um einige zu nennen. Auch in Deutschland ist die Branche der Informations- und Kommunikationstechnik (IKT) nicht nur Innovationsmotor Nr. 1,sondern mittlerweile gleichbedeutend für die wirtschaftliche Wertschöpfung wie der Autombil- und Maschinenbau, berichten das Bundesministerium für Bildung und Forschung (BMBF) sowie das Bundesministerium für Wirtschaft und Energie.
 
 Diese Revolution und Zukunftsthemen, wie zum Beispiel das Internet der Dinge oder die Industrie 4.0, bei der es sich um die intelligente Vernetzung von Machine-zu-Machine-Kommunikation handelt, brauchen qualifizierte und erfahrene Ingenieure.
 
-Die damit einhergehende rasante Entwicklung des Marktes und der Technologien fordern außerdem von den Unternehmen eine große Flexbilität. Freelancer sind daher so gefragt wie noch nie und immer mehr Aufträge werden projektbezogen bearbeitet (http://www.heise.de/ix/meldung/Bitkom-Anzahl-der-Freelancer-in-der-ITK-Branche-steigt-2470194.html).
+Die damit einhergehende rasante Entwicklung des Marktes und der Technologien fordern außerdem von den Unternehmen eine große Flexbilität. Freelancer sind daher so gefragt wie noch nie und immer mehr Aufträge werden projektbezogen bearbeitet.
 
 Unter diesen Gesichtspunkten möchte ich meine jahrelange Berufserfahrung als Software-Ingenieur von nun an als freiberuflicher Einzelunternehmer zur Verfügung stellen. Über die Jahre habe ich mich auf den Einsatz von Webtechnologien spezialisiert und neben der Entwicklung von komplexen Anwendungen, biete ich meinen Kunden für diesen Bereich professionelle Beratung, Projektleitung, Workshops und andere angrenzende Dienstleistungen. Auch im Bereich der Lehre biete ich verschiedene Vorlesungsformate für Hochschulen und ähnliche Institutionen. Dabei kann ich in allen Bereichen auf meine ausführliche Erfahrung zurückgreifen.
 
@@ -78,20 +14,18 @@ Durch meine langjährige Tätigkeit im Großraum Stuttgart genieße ich die Vorz
 
 Alles in allem hervorragende Voraussetzungen und Aussichten für meinen Start in die Selbstständigkeit als frei arbeitender Software-Ingenieur. Lesen Sie weiter um zu erfahren, wie sich das im Detail gestaltet und umsetzt.
 
-Name: Jonathan Grupp - Multimedia Software Engineering
-Gründer: Jonathan Grupp
-Standort: Stuttgart, Baden-Württemberg
-Gründungsform: Einzelunternehmer
-Gründungsdatum: 01. November 2015
-Finanzierung: Eigenkapital, Gründerzuschuss
-Angebot: Entwicklung, Schulungen, Beratung und Vorlesungen zum Thema Multimedia Software Engineering mit Fokus auf Webtechnologien
-Branche: IT: Engineering, Consulting
-Markt: Stabiler und wachsender Markt
-Kunden: Unternehmen verschiedenster Größen: Konzerne, Mittelstand, Start-Ups sowie Universitäten und Hochschulen
-Wettbewerber: andere Einzelunternehmer, Freiberufler, kleine Unternehmen
-UVP: siehe strengths
-Marketing: Online: eigene Webseite, Blogging/Open Source/Papers, Freelancer Portale, gemeinnützig-orientierte Projekte. Offline: eigenes Personennetzwerk
-Tätigkeitsgebiet: Einzugsgebiet Stuttgart (vor Ort) und bundesweit (bei Remote)
+- Name: Jonathan Grupp - Multimedia Software Engineering
+- Gründer: Jonathan Grupp
+- Standort: Stuttgart, Baden-Württemberg
+- Gründungsform: Einzelunternehmer
+- Gründungsdatum: 01. November 2015
+- Finanzierung: Eigenkapital, Gründerzuschuss
+- Branche: IT: Engineering, Consulting
+- Kunden: Unternehmen verschiedenster Größen: Konzerne, Mittelstand, Start-Ups sowie Universitäten und Hochschulen
+- Wettbewerber: andere Einzelunternehmer, Freiberufler, kleine Unternehmen
+- UVP: siehe strengths
+- Marketing: Online: eigene Webseite, Blogging/Open Source/Papers, Freelancer Portale, gemeinnützig-orientierte Projekte. Offline: eigenes Personennetzwerk
+- Tätigkeitsgebiet: Einzugsgebiet Stuttgart (vor Ort) und bundesweit (bei Remote)
 
 ## Einführung
 
@@ -207,22 +141,11 @@ Unterstützend und vereinfachend kommt hinzu, dass ich in meiner beruflichen Lau
 
 
 ### Wie gestalten sich Markt und Wettbewerb?
-Die Region Stuttgart ist für mich nicht nur durch meine bestehenden Kontakte, sondern auch in genereller Hinsicht ein vielversprechender Standort. Mit Firmen wie Mercedes, Porsche und Bosch belegt Stuttgart einen Spitzenplatz unter den deutschen Wirtschaftsstandorten und ist ein erfolgreicher Standort für die Bereiche Automotive, Ingenieurswesen und Finanzwirtschaft. Gebetten in diese Wirtschaftsgrundlage floriert auch der IT-Sektor synergetisch sehr. IT-Riesen wie Hewlett Packard und IBM wirtschaften hier ebenso erfolgreich, wie zahlreiche Mittelständler und eine wachsende Start-Up-Szene, die durch zahlreiche Initiativen wie zum Beispiel den High-Tech-Gründerfond oder die Robert Bosch Startup GmbH gefördert wird. Darüber hinaus besticht Stuttgart auch durch seine erfolgreiche, Medien und Kreativwirtschaft, so wie eine eng verzahnte Forschungs- und Hochschullandschaft (http://www.stuttgart.de/item/show/186216), in deren Dunstkreis spannende Aufträge für mich entstehen können.
+Die Region Stuttgart ist für mich nicht nur durch meine bestehenden Kontakte, sondern auch in genereller Hinsicht ein vielversprechender Standort. Mit Firmen wie Mercedes, Porsche und Bosch belegt Stuttgart einen Spitzenplatz unter den deutschen Wirtschaftsstandorten und ist ein erfolgreicher Standort für die Bereiche Automotive, Ingenieurswesen und Finanzwirtschaft. Gebetten in diese Wirtschaftsgrundlage floriert auch der IT-Sektor synergetisch sehr. IT-Riesen wie Hewlett Packard und IBM wirtschaften hier ebenso erfolgreich, wie zahlreiche Mittelständler und eine wachsende Start-Up-Szene, die durch zahlreiche Initiativen wie zum Beispiel den High-Tech-Gründerfond oder die Robert Bosch Startup GmbH gefördert wird. Darüber hinaus besticht Stuttgart auch durch seine erfolgreiche, Medien und Kreativwirtschaft, so wie eine eng verzahnte Forschungs- und Hochschullandschaft, in deren Dunstkreis spannende Aufträge für mich entstehen können.
 
 Somit gibt es nicht nur in allen meinen Kundengruppen viel Potenzial für Neu-Kunden, ich habe bereits auch nahmhafte Referenzen, die neben meinen sehr guten Arbeitszeugnissen für mich und die Qualität meiner Zusammenarbeit sprechen. Zusätzlich stoßen meine langjährige und breite Erfahrung und mein ausführliches Online-Portfolio bei den Interessenten auf sehr positive Resonanz.
 
-Auch die generelle Situation des Marktes verspricht immer wieder gute Zeiten für Software-Ingenieure. So habe ich in den letzten Monaten vor allem über das Businessnetzwerk XING erfahren, dass meine Fähigkeiten an vielen Stellen gefragt sind und oft händerringend nach erfahrenen Software-Ingenieuren in Freelancer-Anstellung gesucht wird. Diese Stimmung spiegelt sich auch in den Kennzahlen des Marktes, Fachzeitschriften und im Wachstum der Projektvermittler wieder. Hinzu kommt, dass die IKT-Branche an sich mit einem Gesamtumsatz von 77.8 Milliarden Euro Umsatz im letzten Jahr ein stabil wachsender Arm der deutschen Wirtschaft ist. Zudem herrscht in der Branche seit Jahren Fachkräftemangel. (Immer mehr Freelancer - 100.000 - (zeitliche Flexibilität) http://www.heise.de/ix/meldung/Bitkom-Anzahl-der-Freelancer-in-der-ITK-Branche-steigt-2470194.html
-
-IT Freelancing wird Boom-Branche - http://www.heise.de/ix/meldung/IT-Freelancing-wird-Boom-Branche-1934842.html
-
-Freelancer Agenturen legen deutlich zu - http://www.computerwoche.de/a/die-top-10-der-freelancer-agenturen-2015,3212319
-
-Steigende Stundensätze, Projektlaufzeiten - http://www.computerwoche.de/a/freelancer-profitieren-von-laengeren-projektlaufzeiten,3099809
-
-Fachkräftemangel
-http://www.heise.de/newsticker/meldung/Trotz-Rekordjahr-fuer-die-IT-Branche-Bitkom-beklagt-Fachkraeftemangel-und-Rahmenbedingungen-2243860.html
-
-77.8 Milliarden Euro Umsatz - http://de.statista.com/statistik/daten/studie/189877/umfrage/marktvolumen-im-bereich-informationstechnik-in-deutschland-seit-2007/).
+Auch die generelle Situation des Marktes verspricht immer wieder gute Zeiten für Software-Ingenieure. So habe ich in den letzten Monaten vor allem über das Businessnetzwerk XING erfahren, dass meine Fähigkeiten an vielen Stellen gefragt sind und oft händerringend nach erfahrenen Software-Ingenieuren in Freelancer-Anstellung gesucht wird. Diese Stimmung spiegelt sich auch in den Kennzahlen des Marktes, Fachzeitschriften und im Wachstum der Projektvermittler wieder. Hinzu kommt, dass die IKT-Branche an sich mit einem Gesamtumsatz von 77.8 Milliarden Euro Umsatz im letzten Jahr ein stabil wachsender Arm der deutschen Wirtschaft ist. Zudem herrscht in der Branche seit Jahren Fachkräftemangel.
 
 Eine weitere Chance meiner Selbstständigkeit liegt in einem wachsenden Trend der Remote-Arbeit. Das heißt, dass nicht vor Ort sondern in vielen Fällen theoretisch von überall auf der Welt aus gearbeitet werden kann. Die Voraussetzung ist lediglich ein Computer und ein stabiler Internetanschluss. In diesen Fällen ist es meistens nur für wichtige Meetings notwendig vor Ort zu sein, oder selbst diese werden mit Hilfe von Online-Konferenzen gehalten. So sind zusätzlich zu dem attraktiven Markt in der Region Stuttgart auch Kunden aus vielen anderen Ecken Deutschlands oder sogar weltweit denkbar. Meine internationale Erfahrung, meine Onlinepräsenz sowie fließendes Englisch in Wort und Schrift sind sicherlich begünstigende Faktoren, um auch Kunden außerhalb von Stuttgart für mich gewinnen zu können.
 
@@ -329,7 +252,7 @@ Gründerzuschuss
 ### Plan-Gewinn und -Verlustrechnung
 
 ## Chancen / Risikofaktoren
-Für eine Übersicht der Chancen und Risiken meiner Selbstständigkeit habe ich mich für eine SWOT-Analyse entschieden. Sie ist ein beliebtes Instrument in der startegischen Planung für Unternehmen und beleuchtet Stärken (Strenghts), Schwächen (Weaknesses), Chancen (Opportunities) und Gefahren (Threats).  
+Für eine Übersicht der Chancen und Risiken meiner Selbstständigkeit habe ich mich für eine SWOT-Analyse entschieden. Sie ist ein beliebtes Instrument in der startegischen Planung für Unternehmen und beleuchtet Stärken (Strenghts), Schwächen (Weaknesses), Chancen (Opportunities) und Gefahren (Threats).
 
 Die einzelnen Punkte werden beleuchtet und zu ihnen gegebenenfalls Maßnahmen und Strategien vorgestellt.
 
