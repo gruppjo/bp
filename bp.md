@@ -50,6 +50,13 @@ RedMonk 2015 (Github / Stackoverflow) - http://redmonk.com/sogrady/2015/07/01/la
 
 Githut 2014 (Github repositories) - http://githut.info/
 
+https://www.gulp.de/trendanalyzer
+- javascript, angular, node, html5, (gsap)
+- (css3, phonegap/cordova, WebGL, backbone, datenbanken)
+- und viele weitere entsprechende Frameworks/Libraries
+
+JavaScript/HTML5 wichtig! - 10 begehrtesten Skills bei IT-Freelancern - http://www.twago.de/blog/die-10-begehrtesten-skills-bei-it-freelancern/
+
 Github
 by far most popular - https://en.wikipedia.org/wiki/Comparison_of_source_code_hosting_facilities#Popularity
 11M users 27.3M repos - https://github.com/about/press
@@ -59,22 +66,28 @@ mirrors: v8, ruby
 
 ## Einführung / Executive Summary
 
-Der Austausch von digitalen Informationen ist aus unseren Privat- und Berufsleben nicht mehr wegzudenken. Motor für diesen Austausch und für die digitale Revolution des 21. Jahrhunderts ist das Internet und mit ihm die Geräte, die wir verwenden. Kein Wunder sind die Listen der erfolgreichsten und wertvollsten Unternehmen weltweit gespickt mit den Technologieanbietern: Apple, Samsung, Microsoft, Sony, Google, IBM und Facebook, nur um einige zu nennen (siehe http://fortune.com/global500/ http://www.forbes.com/powerful-brands/). Nicht umsonst ist die Branche der Informations- und Kommunikationstechnik (IKT) nicht nur laut dem Bundesministerium für Bildung und Forschung (BMBF) Innovationsmotor Nr. 1 in Deutschland (https://www.destatis.de/DE/Publikationen/Thematisch/UnternehmenHandwerk/Unternehmen/IKT_BrancheDeutschland.html), sondern mittlerweile gleichbedeutend für die wirtschaftliche Wertschöpfung wie der Autombil- und Maschinenbau, berichtet das Bundesministerium für Wirtschaft und Energie (http://www.bmwi.de/BMWi/Redaktion/PDF/Publikationen/monitoring-report-digitale-wirtschaft-2014-kurzfassung,property=pdf,bereich=bmwi2012,sprache=de,rwb=true.pdf)
+Der Austausch von digitalen Informationen ist aus unseren Privat- und Berufsleben nicht mehr wegzudenken. Motor für diesen Austausch und für die digitale Revolution des 21. Jahrhunderts ist das Internet und mit ihm die Geräte, die wir verwenden. So finden sich in den Listen der erfolgreichsten und wertvollsten Unternehmen weltweit immer mehr Technologieanbieter: Apple, Samsung, Microsoft, Sony, Google, IBM und Facebook, nur um einige zu nennen (siehe http://fortune.com/global500/ http://www.forbes.com/powerful-brands/). Auch in Deutschland ist die Branche der Informations- und Kommunikationstechnik (IKT) nicht nur Innovationsmotor Nr. 1,sondern mittlerweile gleichbedeutend für die wirtschaftliche Wertschöpfung wie der Autombil- und Maschinenbau, berichten das Bundesministerium für Bildung und Forschung (BMBF) sowie das Bundesministerium für Wirtschaft und Energie. (https://www.destatis.de/DE/Publikationen/Thematisch/UnternehmenHandwerk/Unternehmen/IKT_BrancheDeutschland.html http://www.bmwi.de/BMWi/Redaktion/PDF/Publikationen/monitoring-report-digitale-wirtschaft-2014-kurzfassung,property=pdf,bereich=bmwi2012,sprache=de,rwb=true.pdf)
 
-Diese Revolution und Zukunftsthemen, wie das Internet der Dinge und die Industrie 4.0, bei der es sich um die intelligente Vernetzung von Machine-zu-Machine-Kommunikation handelt, braucht qualifizierte und erfahrene Ingenieure.
+Diese Revolution und Zukunftsthemen, wie zum Beispiel das Internet der Dinge oder die Industrie 4.0, bei der es sich um die intelligente Vernetzung von Machine-zu-Machine-Kommunikation handelt, brauchen qualifizierte und erfahrene Ingenieure.
 
-Die rasante Entwicklung des Marktes und der Technologien fordern außerdem von den Unternehmen eine große Flexbilität. Freelancer sind daher so gefragt wie noch nie und immer mehr Aufträge werden projektbezogen bearbeitet (http://www.heise.de/ix/meldung/Bitkom-Anzahl-der-Freelancer-in-der-ITK-Branche-steigt-2470194.html).
+Die damit einhergehende rasante Entwicklung des Marktes und der Technologien fordern außerdem von den Unternehmen eine große Flexbilität. Freelancer sind daher so gefragt wie noch nie und immer mehr Aufträge werden projektbezogen bearbeitet (http://www.heise.de/ix/meldung/Bitkom-Anzahl-der-Freelancer-in-der-ITK-Branche-steigt-2470194.html).
 
-Unter diesen Gesichtspunkten möchte ich meine jahrelange Berufserfahrung als Software-Ingenieur von nun an als freiberuflicher Einzelunternehmer zur Verfügung stellen. Neben der Entwicklung von komplexen Anwendungen, biete ich meinen Kunden für diesen Bereich professionelle Beratung, Projektleitung, Workshops und andere angrenzende Dienstleistungen.
+Unter diesen Gesichtspunkten möchte ich meine jahrelange Berufserfahrung als Software-Ingenieur von nun an als freiberuflicher Einzelunternehmer zur Verfügung stellen. Über die Jahre habe ich mich auf den Einsatz von Webtechnologien spezialisiert und neben der Entwicklung von komplexen Anwendungen, biete ich meinen Kunden für diesen Bereich professionelle Beratung, Projektleitung, Workshops und andere angrenzende Dienstleistungen. Auch im Bereich der Lehre biete ich verschiedene Vorlesungsformate für Hochschulen und ähnliche Institutionen. Dabei kann ich in allen Bereichen auf meine ausführliche Erfahrung zurückgreifen.
+
+Durch meine langjährige Tätigkeit im Großraum Stuttgart genieße ich die Vorzüge eines breiten und dynamischen Netzwerkes an Geschäftskontakten und Auftragsvermittlern in dieser wirtschaftsstarken und zukunftsorientierten Region.
+
+Alles in allem hervorragende Voraussetzungen und Aussichten für meinen Start in die Selbstständigkeit als frei arbeitender Software-Ingenieur. Lesen Sie weiter um zu erfahren, wie sich das im Detail gestaltet und umsetzt.
 
 Name: Jonathan Grupp - Multimedia Software Engineering
+Gründer: Jonathan Grupp
 Standort: Stuttgart, Baden-Württemberg
 Gründungsform: Einzelunternehmer
-Gründer: Jonathan Grupp
+Gründungsdatum: 01. November 2015
+Finanzierung: Eigenkapital, Gründerzuschuss
 Angebot: Entwicklung, Schulungen, Beratung und Vorlesungen zum Thema Multimedia Software Engineering mit Fokus auf Webtechnologien
 Branche: IT: Engineering, Consulting
 Markt: Stabiler und wachsender Markt
-Kunden: Unternehmen verschiedenster Größen, Internetagenturen, Universitäten und Hochschulen
+Kunden: Unternehmen verschiedenster Größen: Konzerne, Mittelstand, Start-Ups sowie Universitäten und Hochschulen
 Wettbewerber: andere Einzelunternehmer, Freiberufler, kleine Unternehmen
 UVP: siehe strengths
 Marketing: Online: eigene Webseite, Blogging/Open Source/Papers, Freelancer Portale, gemeinnützig-orientierte Projekte. Offline: eigenes Personennetzwerk
@@ -84,19 +97,22 @@ Tätigkeitsgebiet: Einzugsgebiet Stuttgart (vor Ort) und bundesweit (bei Remote)
 
 Auf Grund eines sich immer weiter diversifizierenden Marktes in der Software-Entwicklung ist es aus meiner Sicht sinnvoll eine Gründung in der Branche nicht nur aus unternehmerischen Gesichtspunkten sondern auch aus technologischen zu betrachten.
 
-Daher gehe ich im Folgenden zunächst auf die Technologien ein auf denen sich meine Berufserfahrung begründet.
+Daher gehe ich im Folgenden zunächst auf die Technologien ein auf denen sich meine Berufserfahrung begründet, dies ist die Grundlage für weitere Entscheidungen, wie zum Beispiel meine Zielkunden und daher für das Verständnis meines Vorhabens besonders wichtig.
 
 ### Technologien
-Die Technologien der IKT Branche sind zahlreich und komplex, doch in den letzten Jahren sind vor allem die Webtechnologien wie JavaScript, HTML und CSS für die Entwicklung von komplexen Anwendungen immer mehr auf dem Vormarsch. Das liegt vor allem daran, dass trotz der unzähligen und unterschiedlichen Endgeräte, wie Laptops, Smartphones, Tablets, E-Book-Reader und sogar internetfähiger Fernseher, diese Geräte doch alle eines gemeinsam haben: nämlich einen Browser. Bis heute sind die Webtechnologien die einzigen, die nativ, also ohne separate Plugin-Installation im Browser laufen - ganz im Gegensatz zu Technologien wie Adobe Flash und Java von Oracle.
+Die Technologien der IKT Branche werden durch die eben genannte Diverszifizerung immer zahlreicher und so ergibt sich oft auch leider eine gewisse Undurchsichtigkeit. Gerade in den letzten Jahren sind in vielen Bereichen die Webtechnologien wie JavaScript, HTML und CSS für die Entwicklung von komplexen Anwendungen immer mehr auf dem Vormarsch. Das liegt vor allem daran, dass trotz der unzähligen und unterschiedlichen Endgeräte, wie Laptops, Smartphones, Tablets, E-Book-Reader und sogar internetfähiger Fernseher, diese Geräte doch alle eines gemeinsam haben: nämlich einen Browser. Bis heute sind die Webtechnologien die einzigen, die nativ, also ohne separate Plugin-Installation in den Browsern laufen - ganz im Gegensatz zu anderen bekannten Technologien wie Adobe Flash und Java von Oracle. Somit eigenen sie sich ausgezeichnet um Software für möglichst viele Nutzer zugänglich zu machen.
 
-Nicht nur deswegen erfreuen sich JavaScript und Konsorten einer immer höheren Beliebtheit: in den letzten Jahren hat vor allem die Initiierung des offenen HTML5-Standards dazu beigetragen, dass andere Technologien verdrängt wurden. Viele Multimedia-Anwendungen wie Audio, Video, 3D und Echtzeitübertragung sind nun auch ohne proprietäre Plugin-Technologie im Browser verfügbar. Zudem sind die Plugin-Technologien mit häufigen Sicherheitslücken immer mehr in Veruf geraten und spätestens seit der damalige Apple CEO Steve Jobs 2010 sich gegen Adobe Flash und für offene Standards wie HTML5 aussprach und Flash ein für alle Mal von dem Betriebssystem iOS verbannte, sind die Webtechnologien immer attraktiver.
-Nicht nur lassen sich mit Ihnen die komplextesten und aufregendsten Anwendungen umsetzen, sie sind bei entsprechender Programmierung auch platformunabhängig und laufen auf verschiedensten Geräten.
+Nicht nur deswegen erfreuen sich JavaScript und Konsorten einer immer höheren Beliebtheit: in den letzten Jahren hat vor allem die Initiierung des offenen HTML5-Standards dazu beigetragen, dass andere Technologien verdrängt wurden. Viele Multimedia-Anwendungen wie Audio, Video, 3D und Echtzeitübertragung sind nun auch ohne proprietäre Plugin-Technologie im Browser verfügbar. Resultate sind immer ausgefeiltere Browser-Anwendungen, wie zum Beispiel Google Hangouts, das auf einfache Weise Video-Konferenzen ermöglicht. Ein Anwendungszenario, dass vor HTML5 ohne Softwareinstallation nicht möglich war, siehe Skype. Auch viele Spieleentwickler tummeln sich um die neuen Technologien und breiten sich auf einem Markt aus, der früher nur durch Plugin-Technologien wie Flash zugänglich war.
 
-Und als sei das noch nicht genug, sind die Technologien mittlerweile so vielseitig, dass sie auch außerhalb des Browsers immer mehr Aufsehen erregen. Sie erhalten Einzug in die Entwicklung von Desktopapplikationen, mobilen Apps und sogar serverseitigen Code. Alles Bereiche, die vorher ausschließlich mit anderen Technologien zugänglich waren.
+Neben diesem Verdrängungseffekt sind die Plugin-Technologien in letzter Zeit mit häufigen Sicherheitslücken immer mehr in Veruf geraten. Diese Stimmung macht sich immer mehr auf dem Markt breit und zahlreiche Entscheidungen von großen Technologieunternehmen und Browserherstellern wie Apple, Google und Firefox verdrängen Java und Flash immer mehr aus ihren Browsern und Endgeräten und positionieren sich deutlich in Richtung des HTML5 Standards.
 
-Früher oft belächelt, begegnen die Technologien des Webs mittlerweile den anderen in Qualität, Professionalität und Geschwindigkeit auf Augenhöhe und übertreffen sie sogar mit Ihrer Vielseitigkeit und Platformunabhängigkeit.
+All das trägt dazu bei, dass sich immer aufwändigere und aufregendere Applikationen mit ihnen entwickeln lassen, die auch auf immer mehr Geräten und Platformen lauffähig sind.
 
-Diese Vorzüge befeuern seit meines Studium die Faszination mit diesen Technologien. Weitere spannende Faktoren auf die ich später erneut zu sprechen kommen werde sind: die Offenheit der Standards, der damit verbunden öffentlichen Weiterentwicklung und Diskussion uüber diese und ein wahnsinnig großer Anteil an Open Source Entwicklung und Komponenten.
+Durch diesen Erfolg, sind diese Technologien mittlerweile so beliebt und vielseitig, dass sie auch außerhalb des Browsers immer mehr Aufsehen erregen. Sie erhalten Einzug in die Entwicklung von Desktopapplikationen, mobilen Apps und sogar serverseitigen Code. Alles Bereiche, die vorher ausschließlich mit anderen Technologien zugänglich waren.
+
+Früher oft belächelt, begegnen die Technologien des Webs somit den anderen in Qualität, Professionalität und Geschwindigkeit mittlerweile auf Augenhöhe und übertreffen sie sogar mit Ihrer Vielseitigkeit und Platformunabhängigkeit.
+
+Spannende Entwicklungen wie diese befeuern seit meines Studiums meine Faszination mit jenen Technologien. Weitere treibende Faktoren auf die ich später erneut zu sprechen kommen werde sind: die Offenheit der Standards, der damit verbunden öffentlichen Weiterentwicklung und Diskussion über diese und ein wahnsinnig großer Anteil an Open Source Entwicklung und Komponenten.
 
 
 ### Gründerperson
@@ -104,7 +120,7 @@ Diese Vorzüge befeuern seit meines Studium die Faszination mit diesen Technolog
 Lebenslauf
 
 
-### Angebot
+### Angebot und Weiterentwicklung
 
 Basierend auf meiner Berufserfahrung biete ich meinen Kunden folgende Dienstleistungen:
 
@@ -113,54 +129,115 @@ Basierend auf meiner Berufserfahrung biete ich meinen Kunden folgende Dienstleis
     - Anwendungen im Browser
     - mobile Apps
     - Desktopanwendungen
-    - Tools für den Entwicklungsprozess, Qualitätsmanagemt, Continuous Integration & Delivery
+    - Tools für den Entwicklungsprozess, Qualitätsmanagement, Continuous Integration & Delivery
     - Open Source Entwicklung
     - serverseitigen Code: REST, Datenbankanbindungen
   - entwickelt mit folgenden Technologien
-    - JavaScript (ES5/6), HTML5, CSS3, SASS
-    - Node.js, Express, HAPI, Yeoman, Gulp, Bower
-    - Datenbanken: MongoDB
+    - Browsertechnologien: JavaScript (ES5/6), HTML5, CSS3, SASS, WebGL, uvm.
     - Frameworks und Libraries:
-      - AngularJS, Ionic, Cordova/Phongap, Backbone, React
-    - Weiters: Git (Versionkontrolle), Jenkins/Travis (Continuous Integration)
-- Workshops zu allen oben genannten Technologien, Frameworks und Libraries
-- Beratung:
-  - strategische und technologische Beratung
-  - Tooling für den Entwicklungsprozess - Qualitätsmanagement, Continuous Integration & Delivery, Entwicklungstools
+      - AngularJS, Ionic, Cordova/Phongap, Backbone, React, D3.js
+    - Backend & Tooling: Node.js, Express, HAPI, Yeoman, Gulp, Bower
+    - Datenbanken: MongoDB, MySQL, Oracle
+    - Weiteres: Git (Versionkontrolle), Jenkins/Travis (Continuous Integration)
 
-
-Aufgaben:
+Dabei bin ich in der Lage je nach Anforderungen ein weites Feld an Aufgaben zu übernehmen:
 - Entwicklung und Umsetzung
+- Prozessoptimierung
 - Konzeption und Entwicklungsplanung
 - Teamleitung und technische Leitung
 - Projektmanagement und Kundenabstimmung
 
+Darüber hinaus Stelle ich dieses Know-How und meine Erfahrung noch in folgenden Formen zur Verfügung:
+- Workshops und Vorlesungen zu allen oben genannten Technologien, Frameworks, Libraries und Entwicklungsthemen
+- Unternehmensberatung zu verschiedenen Themen: Strategie, Technologien, Planung und Prozesse
 
-### Kunden
-- SAE Institute
-- DEVSTARS
-- UDG
+Dennoch ist es in meinem Beruf immer wieder notwendig sich fortzubilden, sich mit neuen Technologien, Vorgehensweisen und Prozessen auseinander zu setzen. Wie ich das nicht nur für die Weiterentwicklung meines Angebot-Portfolios nutze, sondern auch für Marketingzwecke, erfahren Sie im nächsten Abschnitt.
+
+### Bestehende Kunden
+In allen Themen und Aufgabenbereichen meines Angebot-Portfolios habe ich bereits erfolgreich und ausführlich gearbeitet. Daher sind meine Kontakte bereits vielzahlig und so konnte ich schon während meiner letzten Festanstellung und vor allem in den letzten Monaten mehrere Kunden von meiner Kompetenz überzeugen.
+
+Das erfreuliche Resultat meiner bisherigen Bemühungen sind ein großer Pool an Unternehmen, mit denen ich im Erstkontakt stehe und bereits sogar Aussicht auf konkrete Aufträge von folgenden Unternehmen:
+- SAE Institute (Stuttgart)
+- DEVSTARS (Hamburg)
+- United Digital Group (Ludwigsburg)
 - DHBW Stuttgart
-- M-Way Solutions
+- M-Way Solutions (Stuttgart)
+
+Durch das große Interesse von zwei dieser Kunden, konnte ich für diese bereits im September jeweils lukrative Aufträge abwickeln, zu dem Zeitpunkt noch als Nebentätigkeit. Mit weiteren Aufträgen ist auf Grund eines sehr zufriedenstellenden Projektverlaufs zu rechnen.
 
 
-## Marketing
-xing, gulp, github, eigenes netzwerk
-eigene Webseite
-(mehr siehe weiter oben) http://jonathangrupp.com/feel/#/main
-Fortbildung
-Akquise in Auslastung
+### Marketing
+Um weitere potenzielle Kunden auf mich aufmerksam zu machen sind folgende Instrumente bereits im Einsatz:
+- meine persönliches Netzwerk von ehemaligen Kollegen und Freelancern
+- Businessnetzwerke wie XING und LinkedIn
+- Freelancerportale wie Gulp und 4freelance
+- meine eigene Webseite (http://jonathangrupp.com)
+- von mir verfasste Blog-Artikel für verschiedene Company Blogs (http://blog.mwaysolutions.com/2015/09/21/generator-m-ionic-and-the-search-for-the-holy-grail/)
+- Entwicklung von Open Source Komponenten (https://github.com/gruppjo)
+- Gemeinnützige Projekte wie das Projekt 'Feel The Love' (http://jonathangrupp.com/feel/)
 
-## Markt und Wettbewerb
-https://www.gulp.de/trendanalyzer
-- javascript, angular, node, html5, (gsap)
-- (css3, phonegap/cordova, WebGL, backbone, datenbanken)
-- und viele weitere entsprechende Frameworks/Libraries
+Meine bisherigen Kontakte stammen zum Teil aus meinem privaten Netzwerk aber mit wachsendem Anteil auch aus den anderen Quellen. Meine Erfahrung der letzten Monate zeigt, dass ich vor allem über Businessnetzwerk XING von einer großen Anzahl an Interessenten gefunden werde. Dabei kommen neben meiner bisherhigen Berufserfahrung besonders meine eigene Webseite, die von mir entwickelten Open Source Projekte, Blogartikel und gemeinnützigen Projekte sehr gut an. Ein Grund mehr für mich diese Posten weiter auszubauen.
 
-Stundensatz (60/69)/ - https://www.gulp.de/stundensatzkalkulator
-80 im Schnitt bei IT Freelancern - http://t3n.de/news/it-freelancer-verdienst-540420/
+Daher plane ich neben den oben genannten Instrumenten mein Marketing-Portfolio durch weitere Maßnahmen auszubauen:
+- Ausbau und Umgestaltung der eigenen Webseite von 2011 auf den inhaltlich und technologisch neusten Stand
+- Erstellen eines eigenen Blogs und Verfassen von Artikeln und Papers zu technologischen und organisatorischen Themen
+- Ausbau meiner Präsenz auf Twitter, Stackoverflow und Github
+- weitere gemeinnützige Projekte
 
-Auslastung - http://www.computerwoche.de/a/halbjahresbilanz-2014-fuer-freiberufler,3067389
+Zudem lässt sich durch diese Maßnahmen Leerzeiten neben dem Kundengeschäft und der Akquise produktiv gestalten. Die resultierenden Projekte, Artikel und Komponenten dienen nicht nur meiner Fortbildung, sondern sie bieten auch einen hervorragend Einblick in meine Arbeitsweise und sorgen so für hohe Aufmerksamkeit und einen attraktiven Marketing-Effekt. Mit einem regelmäßigem Auftreten auf internationalen Portalen wie Twitter, Stackoverflow und Github, die bei Entwicklern und Auftraggebern sehr beliebt sind, lässt sich dieser Effekt noch verstärken.
+
+
+### Zielkunden
+Mit meinem Angebot richte ich mich hauptsächlich an mittelständische und größere Unternehmen im Großraum Stuttgart, die im Rahmen ihrer Tätigkeit komplexe Software-Szenarien entwickeln, häufige Themen sind zum Beispiel das Erfassen, Automatisieren und Vereinfachen von Geschäftsprozessen. Gerade größere Unternehmen tun sich mit den "jungen" Webtechnologien oft schwer und erweitern Ihr Know-How daher gerne durch Freelancer oder lassen sich diesbezüglich strategisch Beraten, um in dem immer größer werdenden Technologiedschungel nicht den Überblick zu verlieren. Aber auch eine Vielzahl von Start-Ups braucht bei ihren Vorhaben Unterstützung von erfahrenen Softwareentwicklern und können von meinem vielfältigen Leistungsangebot in verschiedenen Unternehmens- und Softwareentwicklungsphasen profitieren. Gerade die kurzen Entwicklungszeiten und agilen Softwareentwicklungs-Methoden sind für sie attraktiv, da sich dadurch verschiedene Geschäftsmodelle und Produkte schnell validieren lassen. Darüber hinaus sind im Rahmen meiner Lehrtätigkeit im akademischen Umfeld für mich besonders die technisch orientierten Hochschulen attraktiv, da diese sehr gerne mit erfahrenen Professionals aus der Wirtschaft zusammen arbeiten.
+
+Von diesem Mix an Kunden verspreche ich mir eine abwechslungsreiche Auftragslage, so wie einen ständigen Ausbau meines Netzwerkes und meines Erfahrungsschatzes.
+
+Unterstützend und vereinfachend kommt hinzu, dass ich in meiner beruflichen Laufbahn bereits mit oder für jeden Kundentyp gearbeitet habe und kenne mich so mit den unterschiedlichen Businesspraktiken und Geschäftsprozessen gut aus: IBM - ein international geführter Konzern, tocario - ein junges Stuttgarter Start-Up, M-Way ein mittelständisches Unternehmen und das SAE Institute - eine Hochschule für angehende Spieleentwickler.
+
+
+### Wie gestalten sich Markt und Wettbewerb?
+Die Region Stuttgart ist für mich nicht nur durch meine bestehenden Kontakte, sondern auch in genereller Hinsicht ein vielversprechender Standort. Mit Firmen wie Mercedes, Porsche und Bosch belegt Stuttgart einen Spitzenplatz unter den deutschen Wirtschaftsstandorten und ist ein erfolgreicher Standort für die Bereiche Automotive, Ingenieurswesen und Finanzwirtschaft. Gebetten in diese Wirtschaftsgrundlage floriert auch der IT-Sektor synergetisch sehr. IT-Riesen wie Hewlett Packard und IBM wirtschaften hier ebenso erfolgreich, wie zahlreiche Mittelständler und eine wachsende Start-Up-Szene, die durch zahlreiche Initiativen wie zum Beispiel den High-Tech-Gründerfond oder die Robert Bosch Startup GmbH gefördert wird. Darüber hinaus besticht Stuttgart auch durch seine erfolgreiche, Medien und Kreativwirtschaft, so wie eine eng verzahnte Forschungs- und Hochschullandschaft (http://www.stuttgart.de/item/show/186216), in deren Dunstkreis spannende Aufträge für mich entstehen können.
+
+Somit gibt es nicht nur in allen meinen Kundengruppen viel Potenzial für Neu-Kunden, ich habe bereits auch nahmhafte Referenzen, die neben meinen sehr guten Arbeitszeugnissen für mich und die Qualität meiner Zusammenarbeit sprechen. Zusätzlich stoßen meine langjährige und breite Erfahrung und mein ausführliches Online-Portfolio bei den Interessenten auf sehr positive Resonanz.
+
+Auch die generelle Situation des Marktes verspricht immer wieder gute Zeiten für Software-Ingenieure. So habe ich in den letzten Monaten vor allem über das Businessnetzwerk XING erfahren, dass meine Fähigkeiten an vielen Stellen gefragt sind und oft händerringend nach erfahrenen Software-Ingenieuren in Freelancer-Anstellung gesucht wird. Diese Stimmung spiegelt sich auch in den Kennzahlen des Marktes, Fachzeitschriften und im Wachstum der Projektvermittler wieder. Hinzu kommt, dass die IKT-Branche an sich mit einem Gesamtumsatz von 77.8 Milliarden Euro Umsatz im letzten Jahr ein stabil wachsender Arm der deutschen Wirtschaft ist. Zudem herrscht in der Branche seit Jahren Fachkräftemangel. (Immer mehr Freelancer - 100.000 - (zeitliche Flexibilität) http://www.heise.de/ix/meldung/Bitkom-Anzahl-der-Freelancer-in-der-ITK-Branche-steigt-2470194.html
+
+IT Freelancing wird Boom-Branche - http://www.heise.de/ix/meldung/IT-Freelancing-wird-Boom-Branche-1934842.html
+
+Freelancer Agenturen legen deutlich zu - http://www.computerwoche.de/a/die-top-10-der-freelancer-agenturen-2015,3212319
+
+Steigende Stundensätze, Projektlaufzeiten - http://www.computerwoche.de/a/freelancer-profitieren-von-laengeren-projektlaufzeiten,3099809
+
+Fachkräftemangel
+http://www.heise.de/newsticker/meldung/Trotz-Rekordjahr-fuer-die-IT-Branche-Bitkom-beklagt-Fachkraeftemangel-und-Rahmenbedingungen-2243860.html
+
+77.8 Milliarden Euro Umsatz - http://de.statista.com/statistik/daten/studie/189877/umfrage/marktvolumen-im-bereich-informationstechnik-in-deutschland-seit-2007/).
+
+Eine weitere Chance meiner Selbstständigkeit liegt in einem wachsenden Trend der Remote-Arbeit. Das heißt, dass nicht vor Ort sondern in vielen Fällen theoretisch von überall auf der Welt aus gearbeitet werden kann. Die Voraussetzung ist lediglich ein Computer und ein stabiler Internetanschluss. In diesen Fällen ist es meistens nur für wichtige Meetings notwendig vor Ort zu sein, oder selbst diese werden mit Hilfe von Online-Konferenzen gehalten. So sind zusätzlich zu dem attraktiven Markt in der Region Stuttgart auch Kunden aus vielen anderen Ecken Deutschlands oder sogar weltweit denkbar. Meine internationale Erfahrung, meine Onlinepräsenz sowie fließendes Englisch in Wort und Schrift sind sicherlich begünstigende Faktoren, um auch Kunden außerhalb von Stuttgart für mich gewinnen zu können.
+
+### Unternehmensziele und ihre Umsetzung
+
+Viele Selbständige scheitern auf Grund einer mangelhaften Planung, so dass unerwartete Ausgaben, schlechte Zahlungsmoralität der Kunden oder Auftragsflauten sie in den Ruin treiben. Um diesen Bedrohungen gewappnet entgegen zu stehen und sie bei Eintreten frühzeitig erkennen und ihnen entgegenwirken zu können, ist der Kern meines Businessplans eine ausführliche Finanzplanung. Dies befindet sich weiter unten in diesem Abschnitt und beruht auf ausführlicher Recherche und branchenüblichen Kennzahlen.
+
+Grundlage dieses Finanzplans sind neben den Kennzahlen und meiner Recherche die folgenden Unternehmensziele. Unternehmensziele aus finanzieller Hinsicht finden sie in der Finanzplanung.
+
+#### Generell
+Hauptaugenmerk liegt in den ersten Jahren auf dem Beschaffen von Aufträgen und der Akquise von Neu-Kunden, mit den Mitteln, die ich in denvorausgehende Abschnitten dargestellt habe. Erstens, um die finanzielle Tragbarkeit meiner Selbstständigkeit zu gewährleisten und zweitens, um mein Netzwerk und damit mein Pool an Kunden und Kontakten zu vergrößern. Davon verspreche ich mir eine möglichst ausgeglichene Auftragslage für die Zukunft zu schaffen und so die Wahrscheinlichkeit von Auftragsflauten zu verringern, beziehungsweise souverän darauf reagieren zu können. Da aus meiner Sicht persönliche Empfehlungen und Referenzen, die besten Vermittler sind, lege ich bei meinen Aufträgen besonderen Wert auf gegenseitig wertschöpfende Zusammenarbeit sowie ein qualitativ hochwertiges Arbeitsergebnis.
+
+Nicht zu vermeidende Leerzeiten, werden ausnahmslos produktiv genutzt, ebenfalls wie voraussgehend beschrieben durch Fortbildungs- und Marketingbemühungen, die die Vorzüge einer Zusammenarbeit mit mir vermitteln sollen.
+
+#### Anlaufsphase (die ersten 6 Monate bis inkl März 2016)
+- Hauptbemühung für die Beschaffung von Aufträgen und die Akquise von Neu-Kunden, zunächst hauptsächlich durch meine bestehenden Kunden, mein persönliches Netzwerk und XING
+
+#### Wachstum 2016/2017
+- Nach der Anlaufsphase weitestgehend kostendeckend Arbeiten ab April 2016
+- Aus den vorhergehenden Maßnahmen mindestens Aufträge von 5 verschiedenen Kunden im Jahr 2016
+- Ausbau meine Kundenstammes mit Augenmerk auf längere Projektlaufzeiten und größere Auftragsvolumen
+
+#### Ausbau 2018/2019
+Je nach Auftragslage:
+- Ab 2018 Umzug in ein Gemeinschaftsbüro, um weitere Kontakte zu knüpfen und ein professionelles Auftreten zu gewährleisten
+- Ab 2019 Einstellen von einem oder mehreren Mitarbeitern, die mich im Projektgeschäft unterstützen
 
 Persönliche Empfehlungen wichtig - http://t3n.de/news/freelancer-programmierer-616149/
 
@@ -168,35 +245,25 @@ Blogging/Willkommenspaket/Berichte/Tagesordnung für Meetings - http://t3n.de/ne
 
 Flauten Produktiv gestalten / Nein sagen / Delegieren - http://t3n.de/news/ratgeber-freelancer-selbstorganisation-607351/
 
+
+
+Stundensatz (60/69)/ - https://www.gulp.de/stundensatzkalkulator
+80 im Schnitt bei IT Freelancern - http://t3n.de/news/it-freelancer-verdienst-540420/
+
+Auslastung - http://www.computerwoche.de/a/halbjahresbilanz-2014-fuer-freiberufler,3067389
+
 gulp - Die besten Projektvermittler für IT-Freelancer: http://www.heise.de/newsticker/meldung/Die-besten-Projektvermittler-fuer-IT-Freelancer-1951039.html
-
-
-JavaScript/HTML5 wichtig! - 10 begehrtesten Skills bei IT-Freelancern - http://www.twago.de/blog/die-10-begehrtesten-skills-bei-it-freelancern/
 
 Wachstumsmarkt: Mobile Developer, Web-Entwickler - Die besten Projektvermittler für IT-Freelancer: http://www.computerwoche.de/a/freelancer-fuer-it-und-programmierung-gefragt,3094919
 
-Steigende Stundensätze, Projektlaufzeiten - http://www.computerwoche.de/a/freelancer-profitieren-von-laengeren-projektlaufzeiten,3099809
-
-Immer mehr Freelancer - 100.000 - (zeitliche Flexibilität) http://www.heise.de/ix/meldung/Bitkom-Anzahl-der-Freelancer-in-der-ITK-Branche-steigt-2470194.html
-
-IT Freelancing wird Boom-Branche - http://www.heise.de/ix/meldung/IT-Freelancing-wird-Boom-Branche-1934842.html
-
-Freelancer Agenturen legen deutlich zu - http://www.computerwoche.de/a/die-top-10-der-freelancer-agenturen-2015,3212319
-
 Zu 735k Mitarbeiter in der Branche - http://de.statista.com/themen/1373/it-branche-deutschland/
 
-77.8 Milliarden Euro Umsatz - http://de.statista.com/statistik/daten/studie/189877/umfrage/marktvolumen-im-bereich-informationstechnik-in-deutschland-seit-2007/
-
-### Konkurrenz
-
-### Standort
-
-## Organisation und Mitarbeiter
-
-## Rechtsform
-Freiberuflich
 
 ## Chancen / Risikofaktoren
+Für eine Übersicht der Chancen und Risiken meiner Selbstständigkeit habe ich mich für eine SWOT-Analyse entschieden. Sie ist ein beliebtes Instrument in der Stragetschien Planung für Unternehmen und beleuchtet Stärken (Strenghts), Schwächen (Weaknesses), Chancen (Opportunities) und Gefahren (Threats).  
+
+Die einzelnen Punkte werden beleuchtet und zu ihnen gegebenenfalls Maßnahmen und Strategien vorgestellt.
+
 Strengths:
 - Langjährige Erfahrung in jungen Technologien (und klassisch: Java/C/C++), professional software development und Strategieberatung
 - Langjährige Erfahrung in verschiedenen Unternehmens- und Teamgrößen
@@ -206,20 +273,36 @@ Strengths:
 - Breites Aufgabenspektrum möglich, so kann bei Engpässen reagiert werden (verschiedene Produkte: Webseiten, Apps, Fullstack, Desktopapplikationen, Tooling, Open Source, Prototypen ... verschieden Aufgabengebiete: Engineering, Schulungen, Vorlesungen, Beratung, technische Analyse/Recherche, ...)
 - BEISPIELE HIERFÜR (Blogs, State of the Art, Github, Feel the Love, eigene Webseite)
 - kaum Investitionen, kaum laufende Kosten, kaum Produktionskosten (nur meine Zeit)
+
 Weaknesses:
-- Unternehmerische Kenntnisse und Fähigkeiten fundiert aber noch nicht außerordentlich (Beratung: Feli, Papa, Freunde, Steuerberater. Steuerberater einkaufen. Zunächst Kleinunternehmer)
+- Unternehmerische Kenntnisse und Fähigkeiten fundiert aber noch nicht außerordentlich
+  - (Beratung: Feli, Papa, Freunde, Steuerberater. Steuerberater einkaufen. Zunächst Kleinunternehmer)
 - Keine großen Volumen möglich: Zunächst einziger Skalierungsfaktor meine Zeit und Stundenlohn (begrenzt)
+  - In Zukunft eventuell mit weiteren Mitarbeitern abbildbar
+
 Opportunities:
-- positive Stundensatzentwicklung (Marktanpassung, florierender Markt)
+- Außerordentliche Stundensatzentwicklung: florierender Markt, Marketing, Ausbau von Fähigkeiten
 - höhere Auslastung (Markt)
 - Expansion (Mitarbeiter, größere Projekte)
+
 Threats:
-- Krankheit/Ausfall (Unfallversicherung/Krankengeld)
-- keine Aufträge, Konkurrenz (großes Netzwerk, bereits tätig gewesen, einige Aufträge ausstehend, Marktsituation müsste sich drastisch verschlechtern)
-- Zahlungsausfall/Zahlungsverzögerungen
-- Verlust Arbeitsmittel/Computer (Versicherung)
-- Liquiditätsprobleme (gute Finanzplanung, einschreiten, zusätliche Finanzierung, Kredit, Minijob, ...)
-- Haftungsfall/Verlust (Haftpflichtversicherung/Rechtsschutzversicherung, Backups, Reserve für neuen Laptop)
+- Ausfall durch Krankheit
+  - Unfallversicherung
+  - Krankengeld
+  - Berechnungen des Finanzplans beinhalten 3 Wochen Krankheit pro Jahr
+- Generell Liquiditätsprobleme
+  - Kapitalpuffer von 25% bei Kapitalbedarfsplanung
+  - andere Finanzmittel: Privatkredite, Fremdfinanzierung, Minijob, ...
+- Verlust Arbeitsgerät
+  - Diebstahl- und Hardwareversicherung
+- andere unvorhersehbare Kosten oder Zahlungsausfall
+  - Kapitalpuffer von 25% bei Kapitalbedarfsplanung
+- Ausbleiben von Aufträgen Konkurrenz
+  - großes Netzwerk, in Vergangenheit bereits Aufträge für mich gewinnen können, großes Interesse auf den Netzwerken, einige Aufträge ausstehend, Marktsituation müsste sich drastisch verschlechtern
+- Zahlungsverzögerung
+  - Finanzplan erwartet bereits 1 bis 2 Monate Verzögerung
+- Haftungsfall, Verlust von Arbeitsergebnissen
+  - Haftpflichtversicherung/Rechtsschutzversicherung, Backups, Reserve für neuen Laptop
 
 ## Kapitalbedarf/Investitionsplan
 Ohne Geld geht gar nichts. Das Herz
@@ -237,6 +320,12 @@ hoch ist die verbleibende Liquidität?
 Wie hoch ist schätzungsweise die Ren
 tabilität, also der Gewinn, in den
 nächsten drei Jahren?
+
+Finanziell:
+- Dadurch in dieser Zeit einen Umsatz von 4.500 Euro generieren
+- Gehalts und Stundensatzentwicklung etc...
+- Umsatzziele: 30k, 50k, 70k
+- Zunächst Kleintunernehmer
 
 ### Kapitalbedarfsplan
 Wie hoch ist der Kapitalbedarf für die Gründung? Aus welchen Quellen?
