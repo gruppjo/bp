@@ -4,6 +4,7 @@
   - Tabellen werden gesplittet
   - keine Rechtschreibung/Formulierungen, gegen Ende teils stichpunktartig, aber inhaltlich vollständig
   - Belege/Quellen?
+  - Fachkundige Stelle?
 - Papa
 - Tim, Patti, Frank, Feli, Jetti
 - Finanzen: Thorsten, David Herrmann

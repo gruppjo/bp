@@ -128,12 +128,21 @@ Spannende Entwicklungen wie diese befeuern seit meines Studiums meine Faszinatio
 
 ### Gründerperson
 
-Lebenslauf
+
+TODO: Lebenslauf
+
+Als Software-Ingenieur habe ich während meines Dualen Studiums bei IBM meine ersten Erfahrungen gemacht, dabei lernte ich mit den klassischen Programmiersprachen wie C, C++, Java und Assembler. Dieses fundierte Wissen hilft mir noch heute Techniken des professionellen Software-Engineerings auf die jüngeren Technologien zu übertragen und so ist meine Arbeit von Übersichtlichkeit, Qualität und zuverlässigen Resultaten geprägt. Mein Interesse ist dabei vielseitig, abgesehen von Problemstellungen in der Implementierung faszinieren mich ebenso übergeordnete Themen wie Qualitätssicherung, Software-Architekturen, Tooling und agile Softwareenwticklungsmethoden.
+
+Durch meinen weiteren beruflichen Werdegang finde ich mich heute in den Strukuren verschiedener Unternehmens- und Teamgrößen problemlos zurecht und sorge auch in internationalen Teams für einen reibungslosen und motivierenden Arbeitsablauf. Ebenso bin ich in den unterschiedlichen Methoden für einen effektiven Softwareentwicklungsprozess erfahren und routiniert: Scrum, Kanban, Wasserfallmodelle und weitere Methoden stellen für mich keine Hürden dar.
+
+Neben Themen des Software-Eningeerings, habe ich zusätzlich noch in verschiedenen Bereichen in verantwortungsvollen Positionen Erfahrungen sammeln können und somit besitze ich einen guten Blick über den Tellerrand hinaus: Strategieberatung, Präsentationen, Projektmanagement, Konzeption und Usability, sowie Kommunikation und Verhandlungen mit Kunden und deren Führung sind außerdem Aufgaben mit denen ich versiert bin und mich wohl fühle.
+
+Im Zentrum meiner Arbeit steht dennoch der Mensch, denn durch spannungsfreie und wohl organisierte Zusammenarbeit erzielt man die besten Ergebnisse. Daher liegen meine Stärken nicht nur im Technischen sondern auch im Zwischenmenschlichen. Diese Kompetenzen haben mir in Vergangenheit immer wieder Positionen mit Verantwortung sowohl im technischen als auch im personellen Bereich zugespielt.
 
 
 ### Leistungsangebot
 
-Basierend auf meiner Berufserfahrung biete ich meinen Kunden folgende Dienstleistungen:
+Basierend auf meiner Berufserfahrung und meinem Werdegang biete ich meinen Kunden daher folgende Dienstleistungen:
 
 - Entwicklung von komplexen Multimedia-Anwendungen
   - dazu gehören:
@@ -142,25 +151,26 @@ Basierend auf meiner Berufserfahrung biete ich meinen Kunden folgende Dienstleis
     - Desktopanwendungen
     - Tools für den Entwicklungsprozess, Qualitätsmanagement, Continuous Integration & Delivery
     - Open Source Entwicklung
-    - serverseitigen Code: REST, Datenbankanbindungen
+    - Serverkomponenten: REST, Datenbankanbindungen, Websockets
   - entwickelt mit folgenden Technologien
     - Browsertechnologien: JavaScript (ES5/6), HTML5, CSS3, SASS, WebGL, uvm.
     - Frameworks und Libraries:
       - AngularJS, Ionic, Cordova/Phongap, Backbone, React, D3.js
     - Backend & Tooling: Node.js, Express, HAPI, Yeoman, Gulp, Bower
     - Datenbanken: MongoDB, MySQL, Oracle
-    - Weiteres: Git (Versionkontrolle), Jenkins/Travis (Continuous Integration)
+    - Weiteres: Git (Versionskontrolle), Jenkins/Travis (Continuous Integration)
 
 Dabei bin ich in der Lage je nach Anforderungen ein weites Feld an Aufgaben zu übernehmen:
 - Entwicklung und Umsetzung
-- Prozessoptimierung
-- Konzeption und Entwicklungsplanung
-- Teamleitung und technische Leitung
+- Teamführung und technische Leitung
+- Konzeption und Usability
+- Entwicklungsplanung und Prozessoptimierung
 - Projektmanagement und Kundenabstimmung
 
 Darüber hinaus Stelle ich dieses Know-How und meine Erfahrung noch in folgenden Formen zur Verfügung:
 - Workshops und Vorlesungen zu allen oben genannten Technologien, Frameworks, Libraries und Entwicklungsthemen
 - Unternehmensberatung zu verschiedenen Themen: Strategie, Technologien, Planung und Prozesse
+- Forschung zum Umgang mit neuen Technologien: Proof of Concepts (Machbarkeitsstudien), State of the Art Analyses (Analysen zum Stand der Technik) und Prototyping (Prototypenerstellung)
 
 Dennoch ist es in meinem Beruf immer wieder notwendig sich fortzubilden, sich mit neuen Technologien, Vorgehensweisen und Prozessen auseinander zu setzen. Wie ich das nicht nur für die Weiterentwicklung meines Angebot-Portfolios nutze, sondern auch für Marketingzwecke, erfahren Sie im nächsten Abschnitt.
 
@@ -191,11 +201,13 @@ Meine bisherigen Kontakte stammen zum Teil aus meinem privaten Netzwerk aber mit
 
 Daher plane ich neben den oben genannten Instrumenten mein Marketing-Portfolio durch weitere Maßnahmen auszubauen:
 - Ausbau und Umgestaltung der eigenen Webseite von 2011 auf den inhaltlich und technologisch neusten Stand
-- Erstellen eines eigenen Blogs und Verfassen von Artikeln und Papers zu technologischen und organisatorischen Themen
+- Erstellen eines eigenen Blogs und Verfassen von Artikeln und Papers zu technologischen und organisatorischen Themen (http://jonathangrupp.com/images/webgl/WebGL.SotA.JonathanGrupp.pdf)
 - Ausbau meiner Präsenz auf Twitter, Stackoverflow und Github
 - weitere gemeinnützige Projekte
 
 Zudem lässt sich durch diese Maßnahmen Leerzeiten neben dem Kundengeschäft und der Akquise produktiv gestalten. Die resultierenden Projekte, Artikel und Komponenten dienen nicht nur meiner Fortbildung, sondern sie bieten auch einen hervorragend Einblick in meine Arbeitsweise und sorgen so für hohe Aufmerksamkeit und einen attraktiven Marketing-Effekt. Mit einem regelmäßigem Auftreten auf internationalen Portalen wie Twitter, Stackoverflow und Github, die bei Entwicklern und Auftraggebern sehr beliebt sind, lässt sich dieser Effekt noch verstärken.
+
+Durch diese Maßnahmen ist es längerfristig möglich in Teilbereichen einen Expertenstatus aufzubauen, der Stundensätze weit jenseits des Durchschnitts erlaubt und mich auch für diverse Messen und andere Events als Gastsprecher oder für Magazine und Blogs als Autor interessant macht. Je nach Möglichkeit und Größe dieser Projekte ist es auch denkbar mit einigen Projekten an Wettbewerben teilzunehmen, um den Bekanntheitsgrad noch weiter zu steigern und weitere Chancen auf neue Aufträge zu generieren.
 
 
 ### Zielkunden
@@ -272,26 +284,12 @@ Zu 735k Mitarbeiter in der Branche - http://de.statista.com/themen/1373/it-branc
 
 ## Finanzplanung
 
-Viele Selbständige scheitern auf Grund einer mangelhaften Planung, so dass unerwartete Ausgaben, schlechte Zahlungsmoralität der Kunden oder Auftragsflauten sie in den Ruin treiben. Um diesen Bedrohungen gewappnet entgegen zu stehen und sie bei Eintreten frühzeitig erkennen und ihnen entgegenwirken zu können, ist der Kern meines Businessplans eine ausführliche Finanzplanung. Diese befindet sich in diesem Teil des Businessplans und beruht auf ausführlicher Recherche und branchenüblichen Kennzahlen.
+Viele Selbständige scheitern auf Grund einer mangelhaften Planung in finanzieller Hinsicht, so dass unerwartete Ausgaben, schlechte Zahlungsmoralität der Kunden oder Auftragsflauten sie in den Ruin treiben. Um diesen Bedrohungen gewappnet entgegen zu stehen und sie bei Eintreten frühzeitig erkennen und ihnen entgegenwirken zu können, ist der Kern meines Businessplans eine ausführliche Finanzplanung. Diese befindet sich in diesem Teil des Businessplans und beruht auf ausführlicher Recherche und branchenüblichen Kennzahlen.
 
-Zusätzlich sind folgende Schätzungen in allen Kategorien konservativ und von eher zurückhaltender Natur. Dies wird bei jeder Schätzung im einzelnen erläutert, so dass im besten Fall Potenzial nach oben, beziehungsweise im schlechtesten auch noch ein großer Handlungsspielraum gegeben ist.
-
-
-
+Zusätzlich sind die Schätzungen in allen Bereichen konservativ und von eher zurückhaltender Natur. Dies wird bei jeder Schätzung im einzelnen erläutert, so dass im besten Fall einiges Potenzial nach oben, beziehungsweise im schlechtesten trotzdem noch ein Handlungsspielraum gegeben ist.
 
 
 ### Finanzielle Unternehmensziele und Annahmen
-#### Umsatz
-- in der Anlaufsphase (1.11.2015 bis 30.04.2016): 4.500,00 Euro
-- im Geschäftsjahr 2016: 30.000,00 Euro
-- im Geschäftsjahr 2017: 50.000,00 Euro
-- im Geschäftsjahr 2018: 70.000,00 Euro
-
-#### Stundensatz
-Durchschnittlich für Tätigkeiten, die meiner ähneln, liegt er je nach Quelle zwischen 70,00 und 80,00 Euro pro Stunde. Für die Finanzplanung gehe ich daher zurückhaltend geschätzt von folgender durschnittlichen Stundensatzentwicklung aus:
-- Bis Ende 2016: 60,00 Euro
-- Bis Ende 2017: 65,00 Euro
-- Bis Ende 2018: 70,00 Euro
 
 ### Auslastung
 Auslastungsquoten zwischen 70 und 100% sind bei IT-Freiberuflern keine Seltenheit. Basierend auf 40 Arbeitswochen im Jahr -52 Wochen im Jahr abzüglich 6 für Urlaub, 3 für Krankheit und 3 weitere für Feiertage und sonstige Ausfälle- gehe ich von folgender Entwicklung meiner Auslastung aus:
@@ -300,20 +298,42 @@ Auslastungsquoten zwischen 70 und 100% sind bei IT-Freiberuflern keine Seltenhei
 - 2017: 50% Auslastung
 - 2018: 63% Auslastung
 
-### Privatentnahmen
-Private Lebensführung
-Sozialversicherungen
-Gründerzuschuss
-- Entwicklung der Kosten für private Lebensführung
+#### Stundensatz
+Für Tätigkeiten, die meiner ähneln, liegt der Stundensatz durchschnittlich je nach Quelle zwischen 70,00 und 80,00 Euro pro Stunde. Für die Finanzplanung gehe ich daher zurückhaltend geschätzt im Schnitt von folgender Stundensatzentwicklung aus:
+- Bis Ende 2016: 60,00 Euro
+- Bis Ende 2017: 65,00 Euro
+- Bis Ende 2018: 70,00 Euro
+
+#### Umsatz
+Aus den Schätzungen für die Auslastung und den Stundensatz ergeben sich folgende Umsatzziele:
+- in der Anlaufsphase vom 1.11.2015 bis 30.04.2016: 4.500,00 Euro
+- im Geschäftsjahr 2016: 30.000,00 Euro
+- im Geschäftsjahr 2017: 50.000,00 Euro
+- im Geschäftsjahr 2018: 70.000,00 Euro
+
+### Privatentnahmen und Gründerzuschuss
+Die Privatentnahmen ergeben sich aus meinen Kosten für die private Lebensführung und denen für die Sozialversicherungen.
+
+Da ich günstig wohne und keine Auto besitze, sind die Kosten für die private Lebensführung sehr gering, dennoch sind für die finanzielle Tragfähigkeit meiner Selbstständigkeit in der Anfangsphase weitere Mittel hilfreich, deshalb beantrage ich bei der Agentur für Arbeit für die ersten 6 Monate einen Gründerzuschuss. Bei Gewährung beträgt der Zuschuss monatlich und verringert somit meine Privatentnahmen:
+- ca. 1.090,00 Euro aus dem Anspruch auf Arbeitslosengeld 1
+- 300,00 Euro zur sozialen Absicherung
+
+Kosten für die private Lebensführung:
+TODO
+
+Entwicklung der Kosten für private Lebensführung:
   - Bis Ende 2016: 1.650,00 Euro
   - Bis Ende 2017: 1.750,00 Euro
   - Bis Ende 2018: 1.850,00 Euro
 
+Die Kosten für die Sozialversicherungen ergeben sich aus dem Geschäftsgewinn der jeweiligen Kalenderjahre und die genauen Beträge sind in der Liquiditätsplanung einsehbar.
+
 ### weitere Annahmen
-- Zahlungsverzögerungen: sind in die Finanzplanung mit 1 bis 2 Monaten einkalkuliert
-- Zunächst Kleinunternehmer, daher Umsatzsteuerberechnungen und Vorsteuer vernachlässigt, keine großen Anschaffungen und ab 2018 Steuerberater
+Zahlungsverzögerungen:
+- sind in die Finanzplanung mit 1 bis 2 Monaten einkalkuliert
 
-
+Kleinunterneherregulung:
+- da die zu erwartenden Umsätze für das Jahr 2015 unter 17.500,00 Euro und für 2016 unter 50.000,00 Euro bleiben, werde ich in diesen Jahren von der Kleinunternehmerregelung gebrauch machen. Dadurch muss ich bis 2017 keine Umsatzsteuer erheben, was die Finanzplanung etwas vereinfacht. Da in dieser Zeit keine großen Anschaffung notwendig sind, ist deshalb auch nicht mit Einbußen zu rechnen. Ab 2017 beauftrage ich einen Steuerberater mit meiner Buchhaltung. Zur Vereinfachung ist die Berechnungen zur Umsatzsteuer vernachlässigbar, da sie in meinem Fall weitestgehend ein Durchlaufposten ist.
 
 
 ### Geschäftsausgaben
@@ -329,51 +349,52 @@ Gründerzuschuss
 ### Plan-Gewinn und -Verlustrechnung
 
 ## Chancen / Risikofaktoren
-Für eine Übersicht der Chancen und Risiken meiner Selbstständigkeit habe ich mich für eine SWOT-Analyse entschieden. Sie ist ein beliebtes Instrument in der startegischen Planung für Unternehmen und beleuchtet Stärken (Strenghts), Schwächen (Weaknesses), Chancen (Opportunities) und Gefahren (Threats).  
+Für eine Übersicht der Chancen und Risiken meiner Selbstständigkeit habe ich mich abschließen für eine SWOT-Analyse entschieden. Sie ist ein beliebtes Instrument in der startegischen Planung für Unternehmen und beleuchtet Stärken (Strengths), Schwächen (Weaknesses), Chancen (Opportunities) und Gefahren (Threats).  
 
 Die einzelnen Punkte werden beleuchtet und zu ihnen gegebenenfalls Maßnahmen und Strategien vorgestellt.
 
 Stärken (Strengths):
-- Langjährige Erfahrung in jungen Technologien (und klassisch: Java/C/C++), professional software development und Strategieberatung
-- Langjährige Erfahrung in verschiedenen Unternehmens- und Teamgrößen
+- Langjährige Erfahrung in jungen Technologien und zusätzlich fundierte klassische Grundlagen
+- Langjährige Erfahrung in verschiedenen Unternehmens- und Teamgrößen und Softwareentwicklungs-Prozessen
 - Internationale Erfahrung (Englisch in Schrift und Sprache)
-- Erfahrung Projektmanagement, Software Development: Scrum, Wasserfall, Kanban
-- Kommunikation mit Kunden, Kundenführung, Verhandlungen, Präsentationen, UX, ...
-- Breites Aufgabenspektrum möglich, so kann bei Engpässen reagiert werden (verschiedene Produkte: Webseiten, Apps, Fullstack, Desktopapplikationen, Tooling, Open Source, Prototypen ... verschieden Aufgabengebiete: Engineering, Schulungen, Vorlesungen, Beratung, technische Analyse/Recherche, ...)
-- BEISPIELE HIERFÜR (Blogs, State of the Art, Github, Feel the Love, eigene Webseite)
-- kaum Investitionen (kein großes finanzielles Risiko), kaum laufende Kosten, kaum Produktionskosten (nur meine Zeit)
-- Auch mit pessimistischen Schätzungen tragfähig
+- Vielseitig einsetzbar: Entwicklung, Teamführung, Qualitätssicherung, Strategieberatung, Projektmanagement, Kommunikation mit Kunden, Kundenführung, Verhandlungen, Präsentationen, Konzeption, Usability, ...
+- Tiefgehende Erfahrung in allen Aufgabenbereichen und bereits Erfahrung als Freelancer
+- Bestehender Kundenstamm
+- Geringes finanzielles Risiko
+- Auch mit pessimistischen Schätzungen tragfähig und aussichtsreich
 
-Weaknesses:
-- Unternehmerische Kenntnisse und Fähigkeiten fundiert aber noch nicht außerordentlich
-  - (Beratung: Feli, Papa, Freunde, Steuerberater. Steuerberater einkaufen. Zunächst Kleinunternehmer)
-  - Gründerseminsare
-- Keine großen Volumen möglich: Zunächst einziger Skalierungsfaktor meine Zeit und Stundenlohn (begrenzt)
-  - In Zukunft eventuell mit weiteren Mitarbeitern abbildbar
+Schwächen (Weaknesses):
+- Unternehmerische Kenntnisse und Fähigkeiten vorhanden aber noch nicht außerordentlich ausgeprägt
+  - Hier kann ich auf einen großen Pool an persönlichen Kontakten zurückgreifen, die mir in verschiedenen Themen beratend zur Seite stehen
+  - Für buchhalterische Themen spätestens ab 2017 Beauftragung eines Steuerberaters
+  - Des Weiteren ist der Besuch von Gründerseminsaren möglich, um so meine Kompetenzen zu erweitern
+- Zu Beginn keine großen Auftragsvolumen möglich: Zunächst einziger Skalierungsfaktor meine Zeit und Stundenlohn
+  - In Zukunft mit weiteren Mitarbeitern abbildbar
 
-Opportunities:
-- Außerordentliche Stundensatzentwicklung: florierender Markt, Marketing, Ausbau von Fähigkeiten
-- höhere Auslastung (Markt)
-- Expansion (Mitarbeiter, größere Projekte)
+Chancen (Opportunities):
+- Außerordentliche Stundensatzentwicklung und hohe Auslastung durch einen florierenden Markt und effektives Marketing
+- Etablierung als Experte
+- Expansion und größere Auftragsvolumen durch Beschäftigung von eigenen Mitarbeitern
 
-Threats:
+Bedrohungen (Threats):
 - Ausfall durch Krankheit
-  - Unfallversicherung
-  - Krankengeld
-  - Berechnungen des Finanzplans beinhalten 3 Wochen Krankheit und ca 1 Woche für weitere Ausfälle pro Jahr
-- Generell Liquiditätsprobleme
-  - Kapitalpuffer von 25% bei Kapitalbedarfsplanung
-  - andere Finanzmittel: Privatkredite, Fremdfinanzierung, Minijob, ...
-  - Verringerung der Privatentnahmen
-- Verlust Arbeitsgerät
-  - Diebstahl- und Hardwareversicherung
-- andere unvorhersehbare Kosten oder Zahlungsausfall
-  - Kapitalpuffer von 25% bei Kapitalbedarfsplanung
-- Ausbleiben von Aufträgen Konkurrenz
-  - großes Netzwerk, in Vergangenheit bereits Aufträge für mich gewinnen können, großes Interesse auf den Netzwerken, einige Aufträge ausstehend, Marktsituation müsste sich drastisch verschlechtern
+  - Maßnahmen: gesunder und ausgeglichener Lebensstil, Unfallversicherung, Kranken- und Pflegeversicherung mit Anspruch auf Krankengeld, Berechnungen des Finanzplanes beinhalten bereits 3 Wochen Krankheit und ca 1 Woche für weitere Ausfälle pro Jahr, außerdem Auslastung zunächst deutlich unter 100%
+- Generelle Liquiditätsprobleme
+  - Maßnahmen: Kapitalpuffer von 25% bei Kapitalbedarfsplanung, Verringerung der Privatentnahmen durch niedrige Kosten möglich oder Auftreiben von anderen Finanzmitteln: Privatkredite, Fremdfinanzierung, Minijob, ...
+- Verlust vom Arbeitsgerät
+  - Maßnahmen: Diebstahl- und Hardwareversicherung wurde beim Erwerb der Geräte abgeschlossen, Reserve für unvorhersehbare Ausgaben und Neuanschaffungen
+- Andere unvorhersehbare Kosten oder Zahlungsausfall
+  - Maßnahmen: Kapitalpuffer von 25% bei der Kapitalbedarfsplanung und großzügiger Liquiditätspuffer
+- Ausbleiben von Aufträgen
+  - Folgende Indizien sprechen dagegen: großes Netzwerk, in Vergangenheit bereits Aufträge für mich gewinnen können, großes Interesse auf den Netzwerken, bestehender Kundenstamm, Marktsituation müsste sich drastisch verschlechtern, was bei wirtschaftlicher Gesamtsituation sehr unwahrscheinlich ist
 - Zahlungsverzögerung
-  - Finanzplan erwartet bereits 1 bis 2 Monate Verzögerung
-- Haftungsfall, Verlust von Arbeitsergebnissen
-  - Haftpflichtversicherung/Rechtsschutzversicherung, Backups, Reserve für neuen Laptop
+  - Maßnahme: Finanzplan erwartet bereits 1 bis 2 Monate Verzögerung
+- Haftungsfall, z.B Verlust von Arbeitsergebnissen
+  - Maßnahmen: Abschluss einer Haftpflicht- und Rechtsschutzversicherung sowie tägliche Backups, und genaue Absprachen, Pflichten- und Lastenhefte bei Beauftragung bezogen auf die Arbeitsergebnisse
+
+Sicherlich lassen sich nicht alle Bedrohungen und Schwächen vollständig kalkulieren, beziehungsweise kontrollieren, genau so wenig lassen sich die Chancen und Stärken und ihre Auswirkungen sicher vorhersagen, denn wie Amazon Präsident Jeff Bezos treffend beschreibt, sind Planung und Realität immer zwei komplett unterschiedliche Dinge: "Any plan won't survive its first encounter with reality. The reality will always be different. It will never be the plan.".
+
+Dennoch bin ich sicher, dass ich mit diesem Businessplan nicht nur zeigen konnte, dass ich die notwendigen Fähigkeiten mitbringe um dieses Unternehmen erfolgreich zu starten und weiter zu entwickeln, sondern auch die Fähigkeiten auf zukünftige Entwicklungen und Unerwartetes sourverän und mit Voraussicht zu reagieren.
 
 ## Unterlagen
+Verträge
