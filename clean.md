@@ -22,12 +22,7 @@ Gründungsdatum: 01. November 2015
 Finanzierung: Eigenkapital, Gründerzuschuss
 Angebot: Entwicklung, Schulungen, Beratung und Vorlesungen zum Thema Multimedia Software Engineering mit Fokus auf Webtechnologien
 Branche: IT: Engineering, Consulting
-Markt: Stabiler und wachsender Markt
-Kunden: Unternehmen verschiedenster Größen: Konzerne, Mittelstand, Start-Ups sowie Universitäten und Hochschulen
-Wettbewerber: andere Einzelunternehmer, Freiberufler, kleine Unternehmen
-UVP: siehe strengths
-Marketing: Online: eigene Webseite, Blogging/Open Source/Papers, Freelancer Portale, gemeinnützig-orientierte Projekte. Offline: eigenes Personennetzwerk
-Tätigkeitsgebiet: Einzugsgebiet Stuttgart (vor Ort) und bundesweit (bei Remote)
+Kunden: Unternehmen verschiedener Größen: Konzerne, Mittelstand, Start-Ups sowie Universitäten und Hochschulen
 
 ## Einführung
 
@@ -165,12 +160,14 @@ Eine weitere Chance meiner Selbstständigkeit liegt in einem wachsenden Trend de
 
 ### Unternehmensziele und ihre Umsetzung
 
-Grundlage der Finanzplanung im nächsten Teil sind die folgenden Unternehmensziele. Die Unternehmensziele aus finanzieller Sicht finden sie später in der Finanzplanung.
+Aus den Unternehmenszielen bildet sich die Grundlage für die Finanzplanung im nächsten Teil. Die Unternehmensziele aus finanzieller Sicht finden Sie später in der Finanzplanung.
 
 #### Generell
 Hauptaugenmerk liegt in den ersten Jahren auf dem Beschaffen von Aufträgen und der Akquise von Neu-Kunden. Dabei setze ich die Mittel ein, die in den vorausgehenden Abschnitten dargestellt wurden. Ziel ist erstens, die finanzielle Tragbarkeit meiner Selbstständigkeit zu gewährleisten und zweitens, mein Netzwerk und damit mein Pool an Kunden und Kontakten zu vergrößern. Davon verspreche ich mir eine möglichst ausgeglichene Auftragslage für die Zukunft zu schaffen und so die Wahrscheinlichkeit von Auftragsflauten zu verringern, beziehungsweise souverän darauf reagieren zu können. Da aus meiner Sicht persönliche Empfehlungen und Referenzen, die besten Vermittler sind, lege ich bei meinen Aufträgen besonderen Wert auf gegenseitig wertschöpfende Zusammenarbeit sowie ein qualitativ hochwertiges Arbeitsergebnis.
 
 Nicht zu vermeidende Leerzeiten, werden ausnahmslos produktiv genutzt, ebenfalls wie voraussgehend beschrieben durch Fortbildungs- und Marketingbemühungen, die die Vorzüge einer Zusammenarbeit mit mir vermitteln sollen.
+
+Für die jewiligen Phasen ergeben sich nachstehende Ziele:
 
 #### Anlaufsphase (die ersten 6 Monate bis inkl März 2016)
 - Hauptbemühung für die Beschaffung von Aufträgen und die Akquise von Neu-Kunden, zunächst hauptsächlich durch meine bestehenden Kunden, mein persönliches Netzwerk und XING
@@ -204,7 +201,7 @@ Auslastungsquoten zwischen 70 und 100% sind bei IT-Freiberuflern keine Seltenhei
 - 2018: 63% Auslastung
 
 #### Stundensatz
-Für Tätigkeiten, die meiner ähneln, liegt der Stundensatz durchschnittlich je nach Quelle zwischen 70,00 und 80,00 Euro pro Zeitstunde. Für die Finanzplanung gehe ich daher durchschnittlich udn zurückhaltend geschätzt von folgender Stundensatzentwicklung aus:
+Für Tätigkeiten, die meiner ähneln, liegt der Stundensatz durchschnittlich je nach Quelle zwischen 70,00 und 80,00 Euro pro Zeitstunde. Für die Finanzplanung gehe ich daher durchschnittlich und zurückhaltend geschätzt von folgender Stundensatzentwicklung aus:
 - Bis Ende 2016: 60,00 Euro
 - Bis Ende 2017: 65,00 Euro
 - Bis Ende 2018: 70,00 Euro
@@ -233,9 +230,16 @@ Entwicklung der Kosten für private Lebensführung:
 
 Die Kosten für die Sozialversicherungen ergeben sich aus dem Geschäftsgewinn der jeweiligen Kalenderjahre und die genauen Beträge sind in der Liquiditätsplanung einsehbar.
 
+### Einkommensteuer
+Basierend auf dem jährlichen Geschäftsgewinn, berechnet sich das voraussichtliche zu versteuernde Einkommen folgendermaßen:
+- versteuerndes Einkommen = Geschäftsgewinn - anrechenbare Vorsorgeaufwände - Aufwendungen fuür Basiskrankenversicherung
+
 ### weitere Annahmen
 Zahlungsverzögerungen:
 - sind in die Finanzplanung mit 1 bis 2 Monaten einkalkuliert
+
+Umsatzschwache Monate:
+- in der Liquiditätsplanung sind die Umsätze über die Monate stärker und schwächer gestreut um eine natürliche Fluktuation zu simulieren. Tendenziell eher schwächere Monate sind August/September und der Dezember/Januar nach den Sommer- bzw. Weihnachtsferien.
 
 Kleinunternehmerregulung:
 - da die zu erwartenden Umsätze für das Jahr 2015 unter 17.500,00 Euro und für 2016 unter 50.000,00 Euro bleiben, werde ich in diesen Jahren von der Kleinunternehmerregelung gebrauch machen. Dadurch muss bis 2017 keine Umsatzsteuer erhoben werden, was die Finanzplanung etwas vereinfacht. Da in dieser Zeit keine großen Anschaffung notwendig sind, ist deshalb auch nicht mit Einbußen zu rechnen. Ab 2017 beauftrage ich einen Steuerberater mit meiner Buchhaltung. Zur Vereinfachung ist die Berechnungen zur Umsatzsteuer vernachlässigbar, da sie in meinem Fall weitestgehend ein Durchlaufposten ist.
